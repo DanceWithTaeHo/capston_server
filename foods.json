@@ -1,0 +1,7601 @@
+[{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb4f"
+  },
+  "name": "쌀밥",
+  "kcal": 15.94,
+  "carbs": 3.51,
+  "sugar": 0,
+  "fat": 0.02,
+  "protein": 0.27,
+  "calcium": 0.17,
+  "phosphorus": 6,
+  "salt": 2.83,
+  "potassium": 6.99,
+  "magnesium": 0,
+  "iron": 0.02,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb50"
+  },
+  "name": "기타잡곡밥",
+  "kcal": 15.12,
+  "carbs": 3.28,
+  "sugar": 0,
+  "fat": 0.04,
+  "protein": 0.34,
+  "calcium": 0.6,
+  "phosphorus": 5.89,
+  "salt": 0.17,
+  "potassium": 8.34,
+  "magnesium": 0.35,
+  "iron": 0.09,
+  "zinc": 0.09,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb51"
+  },
+  "name": "콩밥",
+  "kcal": 16.14,
+  "carbs": 3.29,
+  "sugar": 0,
+  "fat": 0.08,
+  "protein": 0.42,
+  "calcium": 1.23,
+  "phosphorus": 6.35,
+  "salt": 0.2,
+  "potassium": 12.92,
+  "magnesium": 1.12,
+  "iron": 0.09,
+  "zinc": 0.08,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb52"
+  },
+  "name": "보리밥",
+  "kcal": 15.81,
+  "carbs": 3.53,
+  "sugar": 0,
+  "fat": 0.01,
+  "protein": 0.28,
+  "calcium": 0.34,
+  "phosphorus": 3.44,
+  "salt": 0.23,
+  "potassium": 5.03,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb53"
+  },
+  "name": "돌솥밥",
+  "kcal": 15.11,
+  "carbs": 2.91,
+  "sugar": 0,
+  "fat": 0.24,
+  "protein": 0.29,
+  "calcium": 1.76,
+  "phosphorus": 5.53,
+  "salt": 17.67,
+  "potassium": 17.84,
+  "magnesium": 1.65,
+  "iron": 0.09,
+  "zinc": 0.07,
+  "cholesterol": 0.07,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb54"
+  },
+  "name": "현미밥",
+  "kcal": 15.28,
+  "carbs": 3.39,
+  "sugar": 0,
+  "fat": 0.05,
+  "protein": 0.29,
+  "calcium": 0.26,
+  "phosphorus": 7.75,
+  "salt": 1.83,
+  "potassium": 9.1,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb55"
+  },
+  "name": "흑미밥",
+  "kcal": 15.9,
+  "carbs": 3.51,
+  "sugar": 0,
+  "fat": 0.02,
+  "protein": 0.27,
+  "calcium": 0.32,
+  "phosphorus": 4.93,
+  "salt": 0.23,
+  "potassium": 5.65,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb56"
+  },
+  "name": "감자밥",
+  "kcal": 15.4,
+  "carbs": 3.43,
+  "sugar": 0,
+  "fat": 0,
+  "protein": 0.28,
+  "calcium": 0.32,
+  "phosphorus": 4.34,
+  "salt": 0.26,
+  "potassium": 13.38,
+  "magnesium": 0.46,
+  "iron": 0.07,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb57"
+  },
+  "name": "곤드레밥",
+  "kcal": 14.48,
+  "carbs": 3.09,
+  "sugar": 0,
+  "fat": 0.24,
+  "protein": 0.4,
+  "calcium": 0.87,
+  "phosphorus": 2.73,
+  "salt": 2.54,
+  "potassium": 23.31,
+  "magnesium": 0.64,
+  "iron": 0.05,
+  "zinc": 0.05,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb58"
+  },
+  "name": "김치볶음밥",
+  "kcal": 13.14,
+  "carbs": 1.59,
+  "sugar": 0.08,
+  "fat": 0.1,
+  "protein": 0.17,
+  "calcium": 0.72,
+  "phosphorus": 3.64,
+  "salt": 21.9,
+  "potassium": 6.11,
+  "magnesium": 0.04,
+  "iron": 0.02,
+  "zinc": 0.04,
+  "cholesterol": 1.52,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb59"
+  },
+  "name": "주먹밥",
+  "kcal": 13.97,
+  "carbs": 2.41,
+  "sugar": 0,
+  "fat": 0.23,
+  "protein": 0.45,
+  "calcium": 5.7,
+  "phosphorus": 10.08,
+  "salt": 21.98,
+  "potassium": 11.96,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.05,
+  "cholesterol": 3.34,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb5a"
+  },
+  "name": "볶음밥",
+  "kcal": 17.19,
+  "carbs": 2.51,
+  "sugar": 0,
+  "fat": 0.48,
+  "protein": 0.61,
+  "calcium": 1.46,
+  "phosphorus": 10.37,
+  "salt": 36.04,
+  "potassium": 14.47,
+  "magnesium": 0.37,
+  "iron": 0.08,
+  "zinc": 0.09,
+  "cholesterol": 7.72,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6467d03310e2b47cb5b"
+  },
+  "name": "일반비빔밥",
+  "kcal": 14.06,
+  "carbs": 1.91,
+  "sugar": 0.07,
+  "fat": 0.51,
+  "protein": 0.45,
+  "calcium": 1.94,
+  "phosphorus": 5.79,
+  "salt": 24.68,
+  "potassium": 14.85,
+  "magnesium": 1.12,
+  "iron": 0.1,
+  "zinc": 0.08,
+  "cholesterol": 0.8,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb5c"
+  },
+  "name": "전주비빔밥",
+  "kcal": 14.72,
+  "carbs": 2.07,
+  "sugar": 0.08,
+  "fat": 0.29,
+  "protein": 0.35,
+  "calcium": 1.45,
+  "phosphorus": 5.25,
+  "salt": 28.47,
+  "potassium": 10,
+  "magnesium": 0.24,
+  "iron": 0.07,
+  "zinc": 0.06,
+  "cholesterol": 6.38,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb5d"
+  },
+  "name": "삼선볶음밥",
+  "kcal": 17.09,
+  "carbs": 2.84,
+  "sugar": 0.13,
+  "fat": 0.42,
+  "protein": 0.48,
+  "calcium": 2.98,
+  "phosphorus": 6.23,
+  "salt": 28.9,
+  "potassium": 16.02,
+  "magnesium": 0.74,
+  "iron": 0.11,
+  "zinc": 0.09,
+  "cholesterol": 2.98,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb5e"
+  },
+  "name": "새우볶음밥",
+  "kcal": 15.86,
+  "carbs": 2.29,
+  "sugar": 0,
+  "fat": 0.45,
+  "protein": 0.6,
+  "calcium": 2.05,
+  "phosphorus": 8.53,
+  "salt": 28.12,
+  "potassium": 17.77,
+  "magnesium": 0.44,
+  "iron": 0.1,
+  "zinc": 0.07,
+  "cholesterol": 3.18,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb5f"
+  },
+  "name": "알밥",
+  "kcal": 15.16,
+  "carbs": 2.3,
+  "sugar": 0,
+  "fat": 0.09,
+  "protein": 0.38,
+  "calcium": 1.71,
+  "phosphorus": 5.88,
+  "salt": 41.2,
+  "potassium": 12.76,
+  "magnesium": 0.18,
+  "iron": 0.09,
+  "zinc": 0.08,
+  "cholesterol": 0.97,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb60"
+  },
+  "name": "산채비빔밥 ",
+  "kcal": 12.4,
+  "carbs": 2.24,
+  "sugar": 0.01,
+  "fat": 0.27,
+  "protein": 0.27,
+  "calcium": 1.58,
+  "phosphorus": 4.01,
+  "salt": 26.52,
+  "potassium": 12.75,
+  "magnesium": 0.97,
+  "iron": 0.09,
+  "zinc": 0.05,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb61"
+  },
+  "name": "오므라이스",
+  "kcal": 15.22,
+  "carbs": 2.26,
+  "sugar": 0,
+  "fat": 0.44,
+  "protein": 0.51,
+  "calcium": 1.81,
+  "phosphorus": 7.58,
+  "salt": 24.96,
+  "potassium": 17.52,
+  "magnesium": 0.75,
+  "iron": 0.09,
+  "zinc": 0.08,
+  "cholesterol": 13.46,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb62"
+  },
+  "name": "육회비빔밥",
+  "kcal": 14.7,
+  "carbs": 2.04,
+  "sugar": 0.06,
+  "fat": 0.39,
+  "protein": 0.71,
+  "calcium": 1.92,
+  "phosphorus": 8.99,
+  "salt": 25.04,
+  "potassium": 17.64,
+  "magnesium": 0.75,
+  "iron": 0.13,
+  "zinc": 0.15,
+  "cholesterol": 5.37,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb63"
+  },
+  "name": "해물볶음밥",
+  "kcal": 16.48,
+  "carbs": 2.13,
+  "sugar": 0,
+  "fat": 0.59,
+  "protein": 0.57,
+  "calcium": 1.94,
+  "phosphorus": 7.64,
+  "salt": 23.78,
+  "potassium": 13.88,
+  "magnesium": 0.6,
+  "iron": 0.1,
+  "zinc": 0.08,
+  "cholesterol": 9.06,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb64"
+  },
+  "name": "열무비빔밥",
+  "kcal": 11.14,
+  "carbs": 2.25,
+  "sugar": 0.04,
+  "fat": 0.08,
+  "protein": 0.32,
+  "calcium": 2.28,
+  "phosphorus": 4.2,
+  "salt": 17.96,
+  "potassium": 17.72,
+  "magnesium": 0.03,
+  "iron": 0.1,
+  "zinc": 0.07,
+  "cholesterol": 0.32,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb65"
+  },
+  "name": "불고기덮밥",
+  "kcal": 14,
+  "carbs": 1.84,
+  "sugar": 0.12,
+  "fat": 0.43,
+  "protein": 0.59,
+  "calcium": 0.92,
+  "phosphorus": 6.57,
+  "salt": 23.66,
+  "potassium": 15.29,
+  "magnesium": 0.6,
+  "iron": 0.09,
+  "zinc": 0.18,
+  "cholesterol": 1.44,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb66"
+  },
+  "name": "소고기국밥",
+  "kcal": 4.74,
+  "carbs": 0.78,
+  "sugar": 0,
+  "fat": 0.07,
+  "protein": 0.23,
+  "calcium": 0.47,
+  "phosphorus": 2.78,
+  "salt": 23.05,
+  "potassium": 6.93,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.03,
+  "cholesterol": 0.36,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb67"
+  },
+  "name": "송이덮밥",
+  "kcal": 10.01,
+  "carbs": 1.73,
+  "sugar": 0,
+  "fat": 0.24,
+  "protein": 0.27,
+  "calcium": 1.53,
+  "phosphorus": 4.67,
+  "salt": 26.31,
+  "potassium": 21.89,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.07,
+  "cholesterol": 0.16,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb68"
+  },
+  "name": "오징어덮밥",
+  "kcal": 13.88,
+  "carbs": 1.67,
+  "sugar": 0.05,
+  "fat": 0.42,
+  "protein": 0.81,
+  "calcium": 1.54,
+  "phosphorus": 11.74,
+  "salt": 29.95,
+  "potassium": 17.5,
+  "magnesium": 1.25,
+  "iron": 0.06,
+  "zinc": 0.09,
+  "cholesterol": 7.75,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb69"
+  },
+  "name": "자장밥",
+  "kcal": 14.59,
+  "carbs": 1.96,
+  "sugar": 0.08,
+  "fat": 0.5,
+  "protein": 0.52,
+  "calcium": 1.64,
+  "phosphorus": 5.94,
+  "salt": 30.44,
+  "potassium": 15.64,
+  "magnesium": 0.65,
+  "iron": 0.11,
+  "zinc": 0.11,
+  "cholesterol": 0.72,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb6a"
+  },
+  "name": "잡채밥",
+  "kcal": 13.1,
+  "carbs": 1.93,
+  "sugar": 0.06,
+  "fat": 0.44,
+  "protein": 0.33,
+  "calcium": 1.29,
+  "phosphorus": 4.43,
+  "salt": 34.64,
+  "potassium": 12.57,
+  "magnesium": 0.5,
+  "iron": 0.07,
+  "zinc": 0.09,
+  "cholesterol": 0.55,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb6b"
+  },
+  "name": "잡탕밥",
+  "kcal": 9.83,
+  "carbs": 1.34,
+  "sugar": 0,
+  "fat": 0.3,
+  "protein": 0.39,
+  "calcium": 1.03,
+  "phosphorus": 4.84,
+  "salt": 25.63,
+  "potassium": 10.72,
+  "magnesium": 0.21,
+  "iron": 0.06,
+  "zinc": 0.08,
+  "cholesterol": 2.51,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb6c"
+  },
+  "name": "장어덮밥",
+  "kcal": 16.79,
+  "carbs": 2.58,
+  "sugar": 0,
+  "fat": 0.48,
+  "protein": 0.65,
+  "calcium": 15.28,
+  "phosphorus": 11.21,
+  "salt": 22.33,
+  "potassium": 19.63,
+  "magnesium": 0.72,
+  "iron": 0.55,
+  "zinc": 0.12,
+  "cholesterol": 3.92,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb6d"
+  },
+  "name": "제육덮밥",
+  "kcal": 15.94,
+  "carbs": 1.92,
+  "sugar": 0.11,
+  "fat": 0.55,
+  "protein": 0.76,
+  "calcium": 0.92,
+  "phosphorus": 11.47,
+  "salt": 27.51,
+  "potassium": 12.5,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.14,
+  "cholesterol": 2.16,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb6e"
+  },
+  "name": "짬뽕밥",
+  "kcal": 7.74,
+  "carbs": 1.04,
+  "sugar": 0,
+  "fat": 0.25,
+  "protein": 0.46,
+  "calcium": 4.38,
+  "phosphorus": 7.42,
+  "salt": 31.88,
+  "potassium": 19.06,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.06,
+  "cholesterol": 3.38,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb6f"
+  },
+  "name": "순대국밥",
+  "kcal": 7.67,
+  "carbs": 0.38,
+  "sugar": 0,
+  "fat": 0.18,
+  "protein": 0.19,
+  "calcium": 1.48,
+  "phosphorus": 2.66,
+  "salt": 37.98,
+  "potassium": 7.48,
+  "magnesium": 0.04,
+  "iron": 0.1,
+  "zinc": 0.07,
+  "cholesterol": 16.46,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb70"
+  },
+  "name": "카레라이스",
+  "kcal": 13.06,
+  "carbs": 1.85,
+  "sugar": 0,
+  "fat": 0.21,
+  "protein": 0.27,
+  "calcium": 0.56,
+  "phosphorus": 4.36,
+  "salt": 22.17,
+  "potassium": 10.51,
+  "magnesium": 1.4,
+  "iron": 0.04,
+  "zinc": 0.05,
+  "cholesterol": 0.28,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb71"
+  },
+  "name": "전주콩나물국밥",
+  "kcal": 4.8,
+  "carbs": 0.99,
+  "sugar": 0,
+  "fat": 0.04,
+  "protein": 0.14,
+  "calcium": 0.85,
+  "phosphorus": 2.57,
+  "salt": 19.48,
+  "potassium": 5.84,
+  "magnesium": 0.75,
+  "iron": 0.03,
+  "zinc": 0.03,
+  "cholesterol": 0.03,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb72"
+  },
+  "name": "해물덮밥",
+  "kcal": 11.97,
+  "carbs": 1.43,
+  "sugar": 0,
+  "fat": 0.41,
+  "protein": 0.74,
+  "calcium": 2.39,
+  "phosphorus": 7.75,
+  "salt": 30.25,
+  "potassium": 19.45,
+  "magnesium": 0.5,
+  "iron": 0.24,
+  "zinc": 0.08,
+  "cholesterol": 4.2,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb73"
+  },
+  "name": "회덮밥",
+  "kcal": 13.96,
+  "carbs": 2.04,
+  "sugar": 0.37,
+  "fat": 0.23,
+  "protein": 0.86,
+  "calcium": 2.34,
+  "phosphorus": 11.76,
+  "salt": 15.55,
+  "potassium": 22.63,
+  "magnesium": 0.14,
+  "iron": 0.08,
+  "zinc": 0.05,
+  "cholesterol": 2.51,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb74"
+  },
+  "name": "소머리국밥",
+  "kcal": 8.1,
+  "carbs": 0.7,
+  "sugar": 0,
+  "fat": 0.37,
+  "protein": 0.44,
+  "calcium": 0.48,
+  "phosphorus": 2.75,
+  "salt": 8.83,
+  "potassium": 4.14,
+  "magnesium": 0.22,
+  "iron": 0.02,
+  "zinc": 0.04,
+  "cholesterol": 4.34,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb75"
+  },
+  "name": "돼지국밥",
+  "kcal": 6.76,
+  "carbs": 0.65,
+  "sugar": 0.03,
+  "fat": 0.3,
+  "protein": 0.47,
+  "calcium": 0.55,
+  "phosphorus": 2.34,
+  "salt": 10.48,
+  "potassium": 4.15,
+  "magnesium": 0.48,
+  "iron": 0.36,
+  "zinc": 0.36,
+  "cholesterol": 6.12,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb76"
+  },
+  "name": "하이라이스",
+  "kcal": 13.27,
+  "carbs": 2.35,
+  "sugar": 0,
+  "fat": 0.27,
+  "protein": 0.22,
+  "calcium": 0.17,
+  "phosphorus": 3.89,
+  "salt": 27.55,
+  "potassium": 6.99,
+  "magnesium": 0.18,
+  "iron": 0.02,
+  "zinc": 0.04,
+  "cholesterol": 0.24,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb77"
+  },
+  "name": "김치김밥",
+  "kcal": 15.09,
+  "carbs": 2.87,
+  "sugar": 0,
+  "fat": 0.18,
+  "protein": 0.46,
+  "calcium": 3.16,
+  "phosphorus": 8.81,
+  "salt": 38.71,
+  "potassium": 16.55,
+  "magnesium": 0.14,
+  "iron": 0.06,
+  "zinc": 0.08,
+  "cholesterol": 3.98,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb78"
+  },
+  "name": "농어초밥",
+  "kcal": 16.59,
+  "carbs": 2.97,
+  "sugar": 0.28,
+  "fat": 0.09,
+  "protein": 0.8,
+  "calcium": 2.17,
+  "phosphorus": 10.94,
+  "salt": 55.42,
+  "potassium": 19.19,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.07,
+  "cholesterol": 1.74,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb79"
+  },
+  "name": "문어초밥",
+  "kcal": 15.12,
+  "carbs": 2.87,
+  "sugar": 0.2,
+  "fat": 0.04,
+  "protein": 0.68,
+  "calcium": 1.21,
+  "phosphorus": 10.26,
+  "salt": 56.84,
+  "potassium": 15.8,
+  "magnesium": 1.03,
+  "iron": 0.04,
+  "zinc": 0.1,
+  "cholesterol": 3.84,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb7a"
+  },
+  "name": "새우초밥",
+  "kcal": 15.82,
+  "carbs": 2.78,
+  "sugar": 0.12,
+  "fat": 0.05,
+  "protein": 0.91,
+  "calcium": 2.94,
+  "phosphorus": 13.65,
+  "salt": 55.87,
+  "potassium": 14.91,
+  "magnesium": 0.1,
+  "iron": 0.1,
+  "zinc": 0.09,
+  "cholesterol": 5.53,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb7b"
+  },
+  "name": "새우튀김롤",
+  "kcal": 19.07,
+  "carbs": 2.72,
+  "sugar": 0.13,
+  "fat": 0.63,
+  "protein": 0.7,
+  "calcium": 3.69,
+  "phosphorus": 12.38,
+  "salt": 50.42,
+  "potassium": 23.86,
+  "magnesium": 0.01,
+  "iron": 0.11,
+  "zinc": 0.08,
+  "cholesterol": 3.22,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb7c"
+  },
+  "name": "샐러드김밥",
+  "kcal": 16.9,
+  "carbs": 3.03,
+  "sugar": 0,
+  "fat": 0.3,
+  "protein": 0.51,
+  "calcium": 1.83,
+  "phosphorus": 9.06,
+  "salt": 36.27,
+  "potassium": 21.65,
+  "magnesium": 0.55,
+  "iron": 0.09,
+  "zinc": 0.09,
+  "cholesterol": 4.02,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb7d"
+  },
+  "name": "광어초밥",
+  "kcal": 15.72,
+  "carbs": 2.42,
+  "sugar": 0.17,
+  "fat": 0.11,
+  "protein": 1.12,
+  "calcium": 2.94,
+  "phosphorus": 13.7,
+  "salt": 31.71,
+  "potassium": 24.9,
+  "magnesium": 0.05,
+  "iron": 0.1,
+  "zinc": 0.06,
+  "cholesterol": 4.22,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb7e"
+  },
+  "name": "소고기김밥",
+  "kcal": 17.03,
+  "carbs": 3.04,
+  "sugar": 0,
+  "fat": 0.27,
+  "protein": 0.59,
+  "calcium": 2.57,
+  "phosphorus": 9.45,
+  "salt": 59.12,
+  "potassium": 22.16,
+  "magnesium": 0.5,
+  "iron": 0.09,
+  "zinc": 0.1,
+  "cholesterol": 3.99,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb7f"
+  },
+  "name": "갈비삼각김밥",
+  "kcal": 18.32,
+  "carbs": 3.27,
+  "sugar": 0,
+  "fat": 0.26,
+  "protein": 0.69,
+  "calcium": 1.49,
+  "phosphorus": 9.09,
+  "salt": 39.81,
+  "potassium": 18.06,
+  "magnesium": 0.49,
+  "iron": 0.12,
+  "zinc": 0.12,
+  "cholesterol": 1.24,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb80"
+  },
+  "name": "연어롤 ",
+  "kcal": 17.29,
+  "carbs": 2.54,
+  "sugar": 0,
+  "fat": 0.49,
+  "protein": 0.69,
+  "calcium": 2.17,
+  "phosphorus": 11.97,
+  "salt": 41.46,
+  "potassium": 22.19,
+  "magnesium": 0.79,
+  "iron": 0.13,
+  "zinc": 0.07,
+  "cholesterol": 1.72,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb81"
+  },
+  "name": "연어초밥",
+  "kcal": 18.04,
+  "carbs": 2.83,
+  "sugar": 0.16,
+  "fat": 0.23,
+  "protein": 1,
+  "calcium": 1.52,
+  "phosphorus": 14.68,
+  "salt": 39.8,
+  "potassium": 19.05,
+  "magnesium": 0.03,
+  "iron": 0.07,
+  "zinc": 0.07,
+  "cholesterol": 2.18,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb82"
+  },
+  "name": "유부초밥",
+  "kcal": 18.53,
+  "carbs": 3.14,
+  "sugar": 0.27,
+  "fat": 0.45,
+  "protein": 0.49,
+  "calcium": 4.81,
+  "phosphorus": 9.02,
+  "salt": 37.16,
+  "potassium": 11.66,
+  "magnesium": 1.09,
+  "iron": 0.08,
+  "zinc": 0.09,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb83"
+  },
+  "name": "장어초밥",
+  "kcal": 12.16,
+  "carbs": 1.87,
+  "sugar": 0.05,
+  "fat": 0.32,
+  "protein": 0.41,
+  "calcium": 3.32,
+  "phosphorus": 7.08,
+  "salt": 32.3,
+  "potassium": 12.52,
+  "magnesium": 0.36,
+  "iron": 0.06,
+  "zinc": 0.06,
+  "cholesterol": 3.26,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb84"
+  },
+  "name": "참치김밥",
+  "kcal": 16.05,
+  "carbs": 1.9,
+  "sugar": 0,
+  "fat": 0.58,
+  "protein": 0.79,
+  "calcium": 2.31,
+  "phosphorus": 11.19,
+  "salt": 37.03,
+  "potassium": 15.21,
+  "magnesium": 0.63,
+  "iron": 0.18,
+  "zinc": 0.08,
+  "cholesterol": 5.75,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb85"
+  },
+  "name": "참치마요삼각김밥",
+  "kcal": 18.96,
+  "carbs": 3.19,
+  "sugar": 0,
+  "fat": 0.29,
+  "protein": 0.81,
+  "calcium": 0.7,
+  "phosphorus": 8.28,
+  "salt": 18.91,
+  "potassium": 6.93,
+  "magnesium": 0,
+  "iron": 0.16,
+  "zinc": 0.08,
+  "cholesterol": 1.66,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb86"
+  },
+  "name": "치즈김밥 ",
+  "kcal": 18.49,
+  "carbs": 3.09,
+  "sugar": 0,
+  "fat": 0.35,
+  "protein": 0.68,
+  "calcium": 5.5,
+  "phosphorus": 13.21,
+  "salt": 36.8,
+  "potassium": 17.83,
+  "magnesium": 0.41,
+  "iron": 0.06,
+  "zinc": 0.1,
+  "cholesterol": 3.32,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb87"
+  },
+  "name": "캘리포니아롤",
+  "kcal": 15.61,
+  "carbs": 2.71,
+  "sugar": 0,
+  "fat": 0.32,
+  "protein": 0.43,
+  "calcium": 3.55,
+  "phosphorus": 7.06,
+  "salt": 45.07,
+  "potassium": 9.04,
+  "magnesium": 0.1,
+  "iron": 0.17,
+  "zinc": 0.1,
+  "cholesterol": 0.94,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb88"
+  },
+  "name": "한치초밥",
+  "kcal": 15.6,
+  "carbs": 3.09,
+  "sugar": 0.07,
+  "fat": 0.05,
+  "protein": 0.54,
+  "calcium": 0.8,
+  "phosphorus": 8.91,
+  "salt": 46.14,
+  "potassium": 7.29,
+  "magnesium": 0.07,
+  "iron": 0.07,
+  "zinc": 0.1,
+  "cholesterol": 0.03,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb89"
+  },
+  "name": "일반김밥",
+  "kcal": 17.44,
+  "carbs": 3.18,
+  "sugar": 0,
+  "fat": 0.27,
+  "protein": 0.51,
+  "calcium": 2.07,
+  "phosphorus": 7.97,
+  "salt": 47.57,
+  "potassium": 17.77,
+  "magnesium": 0.16,
+  "iron": 0.17,
+  "zinc": 0.1,
+  "cholesterol": 3.46,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb8a"
+  },
+  "name": "간자장",
+  "kcal": 12.43,
+  "carbs": 1.87,
+  "sugar": 0.1,
+  "fat": 0.41,
+  "protein": 0.45,
+  "calcium": 1.91,
+  "phosphorus": 4.74,
+  "salt": 36.12,
+  "potassium": 9.34,
+  "magnesium": 0.33,
+  "iron": 0.11,
+  "zinc": 0.04,
+  "cholesterol": 0.3,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb8b"
+  },
+  "name": "굴짬뽕",
+  "kcal": 7.12,
+  "carbs": 1.29,
+  "sugar": 0.02,
+  "fat": 0.09,
+  "protein": 0.42,
+  "calcium": 2.19,
+  "phosphorus": 5.63,
+  "salt": 26.5,
+  "potassium": 15.24,
+  "magnesium": 0.54,
+  "iron": 0.16,
+  "zinc": 0.11,
+  "cholesterol": 1.98,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb8c"
+  },
+  "name": "기스면",
+  "kcal": 6.46,
+  "carbs": 0.98,
+  "sugar": 0,
+  "fat": 0.11,
+  "protein": 0.44,
+  "calcium": 2.71,
+  "phosphorus": 4.43,
+  "salt": 22.8,
+  "potassium": 8.63,
+  "magnesium": 0.12,
+  "iron": 0.12,
+  "zinc": 0.03,
+  "cholesterol": 3.41,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb8d"
+  },
+  "name": "김치라면",
+  "kcal": 7.88,
+  "carbs": 1.24,
+  "sugar": 0.03,
+  "fat": 0.31,
+  "protein": 0.2,
+  "calcium": 0.96,
+  "phosphorus": 2.57,
+  "salt": 40.44,
+  "potassium": 10.04,
+  "magnesium": 0.02,
+  "iron": 0.03,
+  "zinc": 0.02,
+  "cholesterol": 0.24,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb8e"
+  },
+  "name": "김치우동",
+  "kcal": 6.41,
+  "carbs": 1.24,
+  "sugar": 0,
+  "fat": 0.06,
+  "protein": 0.21,
+  "calcium": 3.1,
+  "phosphorus": 2.92,
+  "salt": 37.54,
+  "potassium": 9.07,
+  "magnesium": 0.14,
+  "iron": 0.05,
+  "zinc": 0.02,
+  "cholesterol": 0.42,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb8f"
+  },
+  "name": "김치말이국수",
+  "kcal": 5.17,
+  "carbs": 1.01,
+  "sugar": 0.05,
+  "fat": 0.04,
+  "protein": 0.17,
+  "calcium": 1.76,
+  "phosphorus": 3.18,
+  "salt": 38.92,
+  "potassium": 7.57,
+  "magnesium": 0,
+  "iron": 0.04,
+  "zinc": 0.02,
+  "cholesterol": 0.37,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb90"
+  },
+  "name": "닭칼국수",
+  "kcal": 7.15,
+  "carbs": 0.78,
+  "sugar": 0,
+  "fat": 0.22,
+  "protein": 0.44,
+  "calcium": 1.22,
+  "phosphorus": 3.18,
+  "salt": 27.7,
+  "potassium": 10.15,
+  "magnesium": 0.06,
+  "iron": 0.03,
+  "zinc": 0.02,
+  "cholesterol": 1.26,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb91"
+  },
+  "name": "들깨칼국수",
+  "kcal": 7.37,
+  "carbs": 1.28,
+  "sugar": 0.04,
+  "fat": 0.11,
+  "protein": 0.29,
+  "calcium": 2.94,
+  "phosphorus": 3.62,
+  "salt": 28.26,
+  "potassium": 11.56,
+  "magnesium": 0,
+  "iron": 0.04,
+  "zinc": 0.02,
+  "cholesterol": 0.28,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb92"
+  },
+  "name": "떡라면",
+  "kcal": 9.6,
+  "carbs": 1.73,
+  "sugar": 0,
+  "fat": 0.25,
+  "protein": 0.22,
+  "calcium": 0.43,
+  "phosphorus": 33.94,
+  "salt": 31.63,
+  "potassium": 5.18,
+  "magnesium": 0.01,
+  "iron": 0.02,
+  "zinc": 0.02,
+  "cholesterol": 0.03,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb93"
+  },
+  "name": "라면",
+  "kcal": 9.26,
+  "carbs": 1.51,
+  "sugar": 0,
+  "fat": 0.32,
+  "protein": 0.26,
+  "calcium": 0.6,
+  "phosphorus": 2.64,
+  "salt": 30.83,
+  "potassium": 6.8,
+  "magnesium": 0.02,
+  "iron": 0.02,
+  "zinc": 0.02,
+  "cholesterol": 0.04,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb94"
+  },
+  "name": "막국수",
+  "kcal": 10.31,
+  "carbs": 2.02,
+  "sugar": 0.2,
+  "fat": 0.09,
+  "protein": 0.49,
+  "calcium": 1.25,
+  "phosphorus": 5.21,
+  "salt": 33.24,
+  "potassium": 16.27,
+  "magnesium": 0.36,
+  "iron": 0.07,
+  "zinc": 0.1,
+  "cholesterol": 0.67,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb95"
+  },
+  "name": "메밀국수",
+  "kcal": 9.81,
+  "carbs": 2,
+  "sugar": 0.17,
+  "fat": 0.08,
+  "protein": 0.42,
+  "calcium": 1.27,
+  "phosphorus": 3.75,
+  "salt": 32.71,
+  "potassium": 10.49,
+  "magnesium": 0.19,
+  "iron": 0.05,
+  "zinc": 0.08,
+  "cholesterol": 0.6,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb96"
+  },
+  "name": "물냉면",
+  "kcal": 7.25,
+  "carbs": 1.21,
+  "sugar": 0.01,
+  "fat": 0.12,
+  "protein": 0.36,
+  "calcium": 1.1,
+  "phosphorus": 5.28,
+  "salt": 32.33,
+  "potassium": 13.04,
+  "magnesium": 0.2,
+  "iron": 0.1,
+  "zinc": 0.07,
+  "cholesterol": 2.23,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb97"
+  },
+  "name": "비빔국수",
+  "kcal": 10.49,
+  "carbs": 2.08,
+  "sugar": 0.2,
+  "fat": 0.17,
+  "protein": 0.3,
+  "calcium": 2.38,
+  "phosphorus": 4.77,
+  "salt": 29.61,
+  "potassium": 25.26,
+  "magnesium": 0.14,
+  "iron": 0.11,
+  "zinc": 0.05,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb98"
+  },
+  "name": "비빔냉면",
+  "kcal": 10.81,
+  "carbs": 1.66,
+  "sugar": 0.04,
+  "fat": 0.17,
+  "protein": 0.43,
+  "calcium": 1.18,
+  "phosphorus": 21.57,
+  "salt": 27.83,
+  "potassium": 5.43,
+  "magnesium": 0.22,
+  "iron": 0.12,
+  "zinc": 0.08,
+  "cholesterol": 0.58,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb99"
+  },
+  "name": "삼선우동",
+  "kcal": 6.92,
+  "carbs": 0.89,
+  "sugar": 0.02,
+  "fat": 0.11,
+  "protein": 0.56,
+  "calcium": 2.17,
+  "phosphorus": 6.88,
+  "salt": 23.51,
+  "potassium": 15.28,
+  "magnesium": 0.69,
+  "iron": 0.11,
+  "zinc": 0.05,
+  "cholesterol": 6.41,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb9a"
+  },
+  "name": "삼선자장면",
+  "kcal": 11.25,
+  "carbs": 1.59,
+  "sugar": 0.03,
+  "fat": 0.35,
+  "protein": 0.55,
+  "calcium": 2.05,
+  "phosphorus": 7.06,
+  "salt": 39.87,
+  "potassium": 12.15,
+  "magnesium": 0.6,
+  "iron": 0.1,
+  "zinc": 0.05,
+  "cholesterol": 2.32,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb9b"
+  },
+  "name": "삼선짬뽕",
+  "kcal": 6.99,
+  "carbs": 0.99,
+  "sugar": 0.03,
+  "fat": 0.15,
+  "protein": 0.44,
+  "calcium": 1.91,
+  "phosphorus": 5.66,
+  "salt": 31.4,
+  "potassium": 16.69,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.05,
+  "cholesterol": 2.77,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb9c"
+  },
+  "name": "수제비",
+  "kcal": 7.78,
+  "carbs": 1.24,
+  "sugar": 0,
+  "fat": 0.08,
+  "protein": 0.48,
+  "calcium": 13.19,
+  "phosphorus": 11.34,
+  "salt": 20.87,
+  "potassium": 23.66,
+  "magnesium": 0.58,
+  "iron": 0.14,
+  "zinc": 0.06,
+  "cholesterol": 2.61,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb9d"
+  },
+  "name": "쌀국수",
+  "kcal": 5.36,
+  "carbs": 0.77,
+  "sugar": 0.04,
+  "fat": 0.1,
+  "protein": 0.36,
+  "calcium": 0.75,
+  "phosphorus": 3.07,
+  "salt": 33.87,
+  "potassium": 6.01,
+  "magnesium": 0.8,
+  "iron": 0.05,
+  "zinc": 0.08,
+  "cholesterol": 2.05,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb9e"
+  },
+  "name": "열무김치국수",
+  "kcal": 6.1,
+  "carbs": 1.02,
+  "sugar": 0,
+  "fat": 0.1,
+  "protein": 0.27,
+  "calcium": 4.27,
+  "phosphorus": 3.7,
+  "salt": 32.35,
+  "potassium": 14.07,
+  "magnesium": 0.01,
+  "iron": 0.06,
+  "zinc": 0.02,
+  "cholesterol": 0.56,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cb9f"
+  },
+  "name": "오일소스스파게티",
+  "kcal": 15.66,
+  "carbs": 2.48,
+  "sugar": 0,
+  "fat": 0.41,
+  "protein": 0.37,
+  "calcium": 0.93,
+  "phosphorus": 1.31,
+  "salt": 24.22,
+  "potassium": 5.46,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cba0"
+  },
+  "name": "일식우동",
+  "kcal": 6.01,
+  "carbs": 1.16,
+  "sugar": 0.01,
+  "fat": 0.02,
+  "protein": 0.24,
+  "calcium": 1.26,
+  "phosphorus": 2.21,
+  "salt": 26.76,
+  "potassium": 5.31,
+  "magnesium": 0.13,
+  "iron": 0.05,
+  "zinc": 0.01,
+  "cholesterol": 0.23,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cba1"
+  },
+  "name": "볶음우동",
+  "kcal": 12.6,
+  "carbs": 2.08,
+  "sugar": 0.03,
+  "fat": 0.36,
+  "protein": 0.32,
+  "calcium": 1.68,
+  "phosphorus": 3.13,
+  "salt": 48.71,
+  "potassium": 21.25,
+  "magnesium": 0.19,
+  "iron": 0.07,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cba2"
+  },
+  "name": "자장면",
+  "kcal": 11.71,
+  "carbs": 2.07,
+  "sugar": 0.12,
+  "fat": 0.36,
+  "protein": 0.24,
+  "calcium": 2.56,
+  "phosphorus": 4.65,
+  "salt": 37.65,
+  "potassium": 15.6,
+  "magnesium": 0.58,
+  "iron": 0.08,
+  "zinc": 0.02,
+  "cholesterol": 0.05,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cba3"
+  },
+  "name": "잔치국수",
+  "kcal": 8.06,
+  "carbs": 1.5,
+  "sugar": 0.01,
+  "fat": 0.09,
+  "protein": 0.29,
+  "calcium": 3.58,
+  "phosphorus": 3.96,
+  "salt": 25.6,
+  "potassium": 12.92,
+  "magnesium": 0.05,
+  "iron": 0.05,
+  "zinc": 0.03,
+  "cholesterol": 2.39,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cba4"
+  },
+  "name": "짬뽕",
+  "kcal": 6.5,
+  "carbs": 1.19,
+  "sugar": 0,
+  "fat": 0.14,
+  "protein": 0.26,
+  "calcium": 0.83,
+  "phosphorus": 3.21,
+  "salt": 34.51,
+  "potassium": 8.57,
+  "magnesium": 0.33,
+  "iron": 0.05,
+  "zinc": 0.04,
+  "cholesterol": 1.05,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cba5"
+  },
+  "name": "짬뽕라면",
+  "kcal": 8.44,
+  "carbs": 1.18,
+  "sugar": 0,
+  "fat": 0.33,
+  "protein": 0.42,
+  "calcium": 1.71,
+  "phosphorus": 5.24,
+  "salt": 31.75,
+  "potassium": 17.05,
+  "magnesium": 0,
+  "iron": 0.15,
+  "zinc": 0.05,
+  "cholesterol": 1.14,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cba6"
+  },
+  "name": "쫄면",
+  "kcal": 13.83,
+  "carbs": 2.46,
+  "sugar": 0.49,
+  "fat": 0.15,
+  "protein": 0.27,
+  "calcium": 3.11,
+  "phosphorus": 6.78,
+  "salt": 28.26,
+  "potassium": 12.16,
+  "magnesium": 0.44,
+  "iron": 0.09,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cba7"
+  },
+  "name": "치즈라면",
+  "kcal": 9.98,
+  "carbs": 1.39,
+  "sugar": 0,
+  "fat": 0.39,
+  "protein": 0.39,
+  "calcium": 2.54,
+  "phosphorus": 6.13,
+  "salt": 40.43,
+  "potassium": 10.87,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.05,
+  "cholesterol": 5.04,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cba8"
+  },
+  "name": "콩국수",
+  "kcal": 7.79,
+  "carbs": 0.84,
+  "sugar": 0.01,
+  "fat": 0.26,
+  "protein": 0.6,
+  "calcium": 2.85,
+  "phosphorus": 7.39,
+  "salt": 10.95,
+  "potassium": 16.8,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cba9"
+  },
+  "name": "크림소스스파게티",
+  "kcal": 20.63,
+  "carbs": 2.15,
+  "sugar": 0,
+  "fat": 1.14,
+  "protein": 0.49,
+  "calcium": 5.83,
+  "phosphorus": 8.35,
+  "salt": 25.63,
+  "potassium": 22.91,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.06,
+  "cholesterol": 3.5,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbaa"
+  },
+  "name": "토마토소스스파게티",
+  "kcal": 12.84,
+  "carbs": 2.04,
+  "sugar": 0,
+  "fat": 0.35,
+  "protein": 0.4,
+  "calcium": 1.94,
+  "phosphorus": 4.41,
+  "salt": 28.1,
+  "potassium": 33.03,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.07,
+  "cholesterol": 0.25,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbab"
+  },
+  "name": "해물칼국수",
+  "kcal": 6.9,
+  "carbs": 1.38,
+  "sugar": 0,
+  "fat": 0.04,
+  "protein": 0.28,
+  "calcium": 1.67,
+  "phosphorus": 3.69,
+  "salt": 24.39,
+  "potassium": 9.86,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.02,
+  "cholesterol": 1.74,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbac"
+  },
+  "name": "회냉면",
+  "kcal": 11.62,
+  "carbs": 2.4,
+  "sugar": 0.41,
+  "fat": 0.16,
+  "protein": 0.37,
+  "calcium": 2.22,
+  "phosphorus": 5.58,
+  "salt": 27.71,
+  "potassium": 24.98,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.06,
+  "cholesterol": 1.69,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbad"
+  },
+  "name": "떡국",
+  "kcal": 8.94,
+  "carbs": 1.8,
+  "sugar": 0,
+  "fat": 0.07,
+  "protein": 0.27,
+  "calcium": 2.78,
+  "phosphorus": 4.53,
+  "salt": 25.24,
+  "potassium": 7.63,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.05,
+  "cholesterol": 1.14,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbae"
+  },
+  "name": "떡만둣국",
+  "kcal": 8.93,
+  "carbs": 1.63,
+  "sugar": 0,
+  "fat": 0.13,
+  "protein": 0.32,
+  "calcium": 2.15,
+  "phosphorus": 4.14,
+  "salt": 28.56,
+  "potassium": 13.57,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.05,
+  "cholesterol": 4.27,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbaf"
+  },
+  "name": "짜장라면",
+  "kcal": 16.38,
+  "carbs": 2.55,
+  "sugar": 0,
+  "fat": 0.59,
+  "protein": 0.48,
+  "calcium": 2.55,
+  "phosphorus": 6.64,
+  "salt": 51.06,
+  "potassium": 19.61,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.03,
+  "cholesterol": 0.06,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbb0"
+  },
+  "name": "고기만두",
+  "kcal": 18.18,
+  "carbs": 2.21,
+  "sugar": 0,
+  "fat": 0.73,
+  "protein": 0.75,
+  "calcium": 4.87,
+  "phosphorus": 9.39,
+  "salt": 35.55,
+  "potassium": 30.69,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.12,
+  "cholesterol": 0.84,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbb1"
+  },
+  "name": "군만두",
+  "kcal": 27.38,
+  "carbs": 3.05,
+  "sugar": 0,
+  "fat": 1.25,
+  "protein": 0.79,
+  "calcium": 2.14,
+  "phosphorus": 11.26,
+  "salt": 39.35,
+  "potassium": 23.8,
+  "magnesium": 0,
+  "iron": 0.19,
+  "zinc": 0.11,
+  "cholesterol": 1.44,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbb2"
+  },
+  "name": "김치만두",
+  "kcal": 16.99,
+  "carbs": 2.43,
+  "sugar": 0,
+  "fat": 0.52,
+  "protein": 0.74,
+  "calcium": 3.67,
+  "phosphorus": 10.85,
+  "salt": 38.48,
+  "potassium": 47.27,
+  "magnesium": 0,
+  "iron": 0.22,
+  "zinc": 0.11,
+  "cholesterol": 0.81,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbb3"
+  },
+  "name": "물만두",
+  "kcal": 13.17,
+  "carbs": 1.71,
+  "sugar": 0,
+  "fat": 0.49,
+  "protein": 0.49,
+  "calcium": 2.3,
+  "phosphorus": 6.82,
+  "salt": 22.46,
+  "potassium": 21.64,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.07,
+  "cholesterol": 0.63,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbb4"
+  },
+  "name": "만둣국",
+  "kcal": 6.18,
+  "carbs": 0.76,
+  "sugar": 0,
+  "fat": 0.21,
+  "protein": 0.27,
+  "calcium": 2.33,
+  "phosphorus": 4.3,
+  "salt": 33.67,
+  "potassium": 17.18,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.03,
+  "cholesterol": 1.35,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbb5"
+  },
+  "name": "게살죽",
+  "kcal": 6.93,
+  "carbs": 1.29,
+  "sugar": 0,
+  "fat": 0.1,
+  "protein": 0.23,
+  "calcium": 2,
+  "phosphorus": 2.95,
+  "salt": 19.17,
+  "potassium": 10.71,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.04,
+  "cholesterol": 0.51,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbb6"
+  },
+  "name": "깨죽",
+  "kcal": 6.32,
+  "carbs": 0.89,
+  "sugar": 0,
+  "fat": 0.24,
+  "protein": 0.17,
+  "calcium": 5.1,
+  "phosphorus": 3.28,
+  "salt": 15.15,
+  "potassium": 2.33,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbb7"
+  },
+  "name": "닭죽",
+  "kcal": 11.82,
+  "carbs": 0.93,
+  "sugar": 0,
+  "fat": 0.48,
+  "protein": 0.76,
+  "calcium": 1.17,
+  "phosphorus": 5.85,
+  "salt": 7.9,
+  "potassium": 12.91,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.06,
+  "cholesterol": 2.71,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbb8"
+  },
+  "name": "소고기버섯죽",
+  "kcal": 7.17,
+  "carbs": 1.29,
+  "sugar": 0,
+  "fat": 0.08,
+  "protein": 0.26,
+  "calcium": 0.39,
+  "phosphorus": 3.61,
+  "salt": 15.8,
+  "potassium": 6.31,
+  "magnesium": 0,
+  "iron": 0.03,
+  "zinc": 0.05,
+  "cholesterol": 0.37,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbb9"
+  },
+  "name": "어죽",
+  "kcal": 6.99,
+  "carbs": 1.13,
+  "sugar": 0,
+  "fat": 0.08,
+  "protein": 0.19,
+  "calcium": 4.61,
+  "phosphorus": 4.61,
+  "salt": 20.27,
+  "potassium": 5.63,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.04,
+  "cholesterol": 0.95,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbba"
+  },
+  "name": "잣죽",
+  "kcal": 12.47,
+  "carbs": 2.2,
+  "sugar": 0,
+  "fat": 0.29,
+  "protein": 0.23,
+  "calcium": 0.22,
+  "phosphorus": 2.81,
+  "salt": 12.15,
+  "potassium": 4.24,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbbb"
+  },
+  "name": "전복죽",
+  "kcal": 7.34,
+  "carbs": 1.31,
+  "sugar": 0,
+  "fat": 0.14,
+  "protein": 0.18,
+  "calcium": 0.94,
+  "phosphorus": 3.37,
+  "salt": 17.8,
+  "potassium": 5.07,
+  "magnesium": 0,
+  "iron": 0.03,
+  "zinc": 0.03,
+  "cholesterol": 0.56,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbbc"
+  },
+  "name": "참치죽",
+  "kcal": 8.23,
+  "carbs": 1.32,
+  "sugar": 0,
+  "fat": 0.17,
+  "protein": 0.33,
+  "calcium": 0.8,
+  "phosphorus": 4.27,
+  "salt": 15.8,
+  "potassium": 10.65,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.03,
+  "cholesterol": 0.51,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbbd"
+  },
+  "name": "채소죽",
+  "kcal": 6.44,
+  "carbs": 1.26,
+  "sugar": 0,
+  "fat": 0.06,
+  "protein": 0.15,
+  "calcium": 2.84,
+  "phosphorus": 3.63,
+  "salt": 15.15,
+  "potassium": 17.22,
+  "magnesium": 0,
+  "iron": 0.03,
+  "zinc": 0.03,
+  "cholesterol": 0.3,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbbe"
+  },
+  "name": "팥죽",
+  "kcal": 8.04,
+  "carbs": 1.68,
+  "sugar": 0.08,
+  "fat": 0.01,
+  "protein": 0.34,
+  "calcium": 1.52,
+  "phosphorus": 1.28,
+  "salt": 17.1,
+  "potassium": 15.68,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.09,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbbf"
+  },
+  "name": "호박죽",
+  "kcal": 7.17,
+  "carbs": 1.86,
+  "sugar": 0.43,
+  "fat": 0.01,
+  "protein": 0.14,
+  "calcium": 0.3,
+  "phosphorus": 2.76,
+  "salt": 15.2,
+  "potassium": 30.98,
+  "magnesium": 0,
+  "iron": 0.03,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbc0"
+  },
+  "name": "콘스프",
+  "kcal": 7.01,
+  "carbs": 0.88,
+  "sugar": 0,
+  "fat": 0.35,
+  "protein": 0.15,
+  "calcium": 0,
+  "phosphorus": 0,
+  "salt": 32.99,
+  "potassium": 0,
+  "magnesium": 0,
+  "iron": 0,
+  "zinc": 0,
+  "cholesterol": 1.02,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbc1"
+  },
+  "name": "토마토스프",
+  "kcal": 9.56,
+  "carbs": 0.31,
+  "sugar": 0,
+  "fat": 0.64,
+  "protein": 0.45,
+  "calcium": 0,
+  "phosphorus": 0,
+  "salt": 38.61,
+  "potassium": 0,
+  "magnesium": 0,
+  "iron": 0,
+  "zinc": 0,
+  "cholesterol": 1.77,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbc2"
+  },
+  "name": "굴국",
+  "kcal": 4.32,
+  "carbs": 0.25,
+  "sugar": 0,
+  "fat": 0.19,
+  "protein": 0.51,
+  "calcium": 6.02,
+  "phosphorus": 8.91,
+  "salt": 39.47,
+  "potassium": 16.87,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.3,
+  "cholesterol": 1,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbc3"
+  },
+  "name": "김치국",
+  "kcal": 1.91,
+  "carbs": 0.29,
+  "sugar": 0,
+  "fat": 0.08,
+  "protein": 0.13,
+  "calcium": 2.47,
+  "phosphorus": 3.22,
+  "salt": 36.58,
+  "potassium": 12.89,
+  "magnesium": 0,
+  "iron": 0.04,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbc4"
+  },
+  "name": "달걀국",
+  "kcal": 4.29,
+  "carbs": 0.12,
+  "sugar": 0,
+  "fat": 0.25,
+  "protein": 0.36,
+  "calcium": 1.46,
+  "phosphorus": 5,
+  "salt": 28.09,
+  "potassium": 5.1,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.04,
+  "cholesterol": 14.25,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbc5"
+  },
+  "name": "감자국",
+  "kcal": 3.14,
+  "carbs": 0.53,
+  "sugar": 0,
+  "fat": 0.03,
+  "protein": 0.24,
+  "calcium": 6.67,
+  "phosphorus": 6.61,
+  "salt": 24.77,
+  "potassium": 26.5,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.04,
+  "cholesterol": 1.25,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbc6"
+  },
+  "name": "미역국",
+  "kcal": 1,
+  "carbs": 0.09,
+  "sugar": 0,
+  "fat": 0.09,
+  "protein": 0.05,
+  "calcium": 2.25,
+  "phosphorus": 0.88,
+  "salt": 30.55,
+  "potassium": 13.17,
+  "magnesium": 0,
+  "iron": 0.02,
+  "zinc": 0.01,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbc7"
+  },
+  "name": "바지락조개국",
+  "kcal": 2.9,
+  "carbs": 0.15,
+  "sugar": 0,
+  "fat": 0.03,
+  "protein": 0.47,
+  "calcium": 3.07,
+  "phosphorus": 7.06,
+  "salt": 30.02,
+  "potassium": 10.55,
+  "magnesium": 0,
+  "iron": 0.54,
+  "zinc": 0.04,
+  "cholesterol": 2.64,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbc8"
+  },
+  "name": "소고기무국",
+  "kcal": 3.13,
+  "carbs": 0.2,
+  "sugar": 0,
+  "fat": 0.12,
+  "protein": 0.34,
+  "calcium": 1.52,
+  "phosphorus": 3.29,
+  "salt": 27.38,
+  "potassium": 16.57,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.04,
+  "cholesterol": 0.71,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbc9"
+  },
+  "name": "소고기미역국",
+  "kcal": 2.38,
+  "carbs": 0.11,
+  "sugar": 0,
+  "fat": 0.11,
+  "protein": 0.31,
+  "calcium": 1.9,
+  "phosphorus": 3.19,
+  "salt": 30.88,
+  "potassium": 14.04,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.09,
+  "cholesterol": 0.64,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbca"
+  },
+  "name": "순대국",
+  "kcal": 6.88,
+  "carbs": 0.29,
+  "sugar": 0,
+  "fat": 0.41,
+  "protein": 0.52,
+  "calcium": 1.56,
+  "phosphorus": 2.61,
+  "salt": 19.16,
+  "potassium": 7.4,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.06,
+  "cholesterol": 9.68,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbcb"
+  },
+  "name": "어묵국",
+  "kcal": 4.2,
+  "carbs": 0.62,
+  "sugar": 0,
+  "fat": 0.07,
+  "protein": 0.38,
+  "calcium": 9.99,
+  "phosphorus": 7.8,
+  "salt": 33.71,
+  "potassium": 28.27,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.05,
+  "cholesterol": 1.67,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbcc"
+  },
+  "name": "오징어국",
+  "kcal": 3.38,
+  "carbs": 0.21,
+  "sugar": 0,
+  "fat": 0.05,
+  "protein": 0.55,
+  "calcium": 1.64,
+  "phosphorus": 8.18,
+  "salt": 31.47,
+  "potassium": 16.21,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.06,
+  "cholesterol": 5.93,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbcd"
+  },
+  "name": "토란국",
+  "kcal": 18.52,
+  "carbs": 3.41,
+  "sugar": 0,
+  "fat": 0.28,
+  "protein": 0.96,
+  "calcium": 12.73,
+  "phosphorus": 18.61,
+  "salt": 28.03,
+  "potassium": 105.01,
+  "magnesium": 0,
+  "iron": 0.23,
+  "zinc": 0.11,
+  "cholesterol": 1.51,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbce"
+  },
+  "name": "탕국",
+  "kcal": 3.77,
+  "carbs": 0.1,
+  "sugar": 0,
+  "fat": 0.17,
+  "protein": 0.48,
+  "calcium": 11.44,
+  "phosphorus": 8.83,
+  "salt": 26.52,
+  "potassium": 10.02,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.05,
+  "cholesterol": 1.42,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbcf"
+  },
+  "name": "홍합미역국",
+  "kcal": 2.6,
+  "carbs": 0.22,
+  "sugar": 0,
+  "fat": 0.1,
+  "protein": 0.31,
+  "calcium": 4.45,
+  "phosphorus": 3.48,
+  "salt": 31.79,
+  "potassium": 23.84,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.05,
+  "cholesterol": 1.23,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbd0"
+  },
+  "name": "황태해장국",
+  "kcal": 3.07,
+  "carbs": 0.11,
+  "sugar": 0,
+  "fat": 0.12,
+  "protein": 0.42,
+  "calcium": 2.61,
+  "phosphorus": 5.24,
+  "salt": 25.45,
+  "potassium": 11.02,
+  "magnesium": 0,
+  "iron": 0.04,
+  "zinc": 0.02,
+  "cholesterol": 1.53,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbd1"
+  },
+  "name": "근대된장국",
+  "kcal": 2.43,
+  "carbs": 0.18,
+  "sugar": 0,
+  "fat": 0.07,
+  "protein": 0.34,
+  "calcium": 13.8,
+  "phosphorus": 9.7,
+  "salt": 32.29,
+  "potassium": 26.91,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.05,
+  "cholesterol": 2.51,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbd2"
+  },
+  "name": "미소된장국",
+  "kcal": 2.53,
+  "carbs": 0.11,
+  "sugar": 0,
+  "fat": 0.12,
+  "protein": 0.28,
+  "calcium": 6.57,
+  "phosphorus": 5.92,
+  "salt": 34.13,
+  "potassium": 10.45,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.04,
+  "cholesterol": 1.05,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbd3"
+  },
+  "name": "배추된장국",
+  "kcal": 1.74,
+  "carbs": 0.16,
+  "sugar": 0,
+  "fat": 0.05,
+  "protein": 0.2,
+  "calcium": 1.48,
+  "phosphorus": 2.46,
+  "salt": 33.16,
+  "potassium": 11.03,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.06,
+  "cholesterol": 0.37,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbd4"
+  },
+  "name": "뼈다귀해장국 ",
+  "kcal": 7.16,
+  "carbs": 0.3,
+  "sugar": 0,
+  "fat": 0.45,
+  "protein": 0.54,
+  "calcium": 2.4,
+  "phosphorus": 4.12,
+  "salt": 30.94,
+  "potassium": 16.77,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.05,
+  "cholesterol": 2.16,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbd5"
+  },
+  "name": "선지(해장)국",
+  "kcal": 3.14,
+  "carbs": 0.22,
+  "sugar": 0,
+  "fat": 0.05,
+  "protein": 0.48,
+  "calcium": 0.84,
+  "phosphorus": 1.05,
+  "salt": 30.53,
+  "potassium": 6.84,
+  "magnesium": 0,
+  "iron": 1.06,
+  "zinc": 0.14,
+  "cholesterol": 1.5,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbd6"
+  },
+  "name": "콩나물국",
+  "kcal": 0.56,
+  "carbs": 0.03,
+  "sugar": 0,
+  "fat": 0.04,
+  "protein": 0.05,
+  "calcium": 0.84,
+  "phosphorus": 1.12,
+  "salt": 18.81,
+  "potassium": 2.07,
+  "magnesium": 0.21,
+  "iron": 0.01,
+  "zinc": 0.01,
+  "cholesterol": 0.19,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbd7"
+  },
+  "name": "시금치된장국",
+  "kcal": 3.04,
+  "carbs": 0.25,
+  "sugar": 0,
+  "fat": 0.08,
+  "protein": 0.42,
+  "calcium": 15.62,
+  "phosphorus": 11.12,
+  "salt": 34.53,
+  "potassium": 33.11,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.07,
+  "cholesterol": 2.93,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbd8"
+  },
+  "name": "시래기된장국",
+  "kcal": 2.2,
+  "carbs": 0.24,
+  "sugar": 0,
+  "fat": 0.06,
+  "protein": 0.22,
+  "calcium": 8.73,
+  "phosphorus": 4.96,
+  "salt": 34.13,
+  "potassium": 10.77,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.04,
+  "cholesterol": 0.84,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbd9"
+  },
+  "name": "쑥된장국",
+  "kcal": 2.61,
+  "carbs": 0.38,
+  "sugar": 0,
+  "fat": 0.06,
+  "protein": 0.29,
+  "calcium": 11.17,
+  "phosphorus": 7.05,
+  "salt": 39.99,
+  "potassium": 31.88,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.04,
+  "cholesterol": 1.53,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbda"
+  },
+  "name": "아욱된장국",
+  "kcal": 2.3,
+  "carbs": 0.22,
+  "sugar": 0,
+  "fat": 0.07,
+  "protein": 0.27,
+  "calcium": 6.51,
+  "phosphorus": 5.84,
+  "salt": 32.49,
+  "potassium": 18.91,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.04,
+  "cholesterol": 0.84,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbdb"
+  },
+  "name": "우거지된장국",
+  "kcal": 1.91,
+  "carbs": 0.3,
+  "sugar": 0,
+  "fat": 0.04,
+  "protein": 0.14,
+  "calcium": 1.98,
+  "phosphorus": 2.71,
+  "salt": 35.42,
+  "potassium": 13.6,
+  "magnesium": 0,
+  "iron": 0.03,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbdc"
+  },
+  "name": "우거지해장국",
+  "kcal": 2.64,
+  "carbs": 0.25,
+  "sugar": 0,
+  "fat": 0.1,
+  "protein": 0.24,
+  "calcium": 1.73,
+  "phosphorus": 3.95,
+  "salt": 32.87,
+  "potassium": 11.08,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.04,
+  "cholesterol": 0.22,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbdd"
+  },
+  "name": "우렁된장국",
+  "kcal": 4.91,
+  "carbs": 0.42,
+  "sugar": 0,
+  "fat": 0.14,
+  "protein": 0.49,
+  "calcium": 42.11,
+  "phosphorus": 5.42,
+  "salt": 43.01,
+  "potassium": 14.9,
+  "magnesium": 0,
+  "iron": 0.22,
+  "zinc": 0.1,
+  "cholesterol": 0.46,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbde"
+  },
+  "name": "갈비탕",
+  "kcal": 4.01,
+  "carbs": 0.14,
+  "sugar": 0,
+  "fat": 0.24,
+  "protein": 0.31,
+  "calcium": 0.92,
+  "phosphorus": 3.41,
+  "salt": 28.14,
+  "potassium": 9.28,
+  "magnesium": 0,
+  "iron": 0.04,
+  "zinc": 0.07,
+  "cholesterol": 3.16,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbdf"
+  },
+  "name": "감자탕",
+  "kcal": 10.71,
+  "carbs": 0.55,
+  "sugar": 0.01,
+  "fat": 0.65,
+  "protein": 0.67,
+  "calcium": 6.98,
+  "phosphorus": 8.53,
+  "salt": 27.1,
+  "potassium": 26.83,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.09,
+  "cholesterol": 1.6,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbe0"
+  },
+  "name": "곰탕",
+  "kcal": 6.05,
+  "carbs": 0.52,
+  "sugar": 0,
+  "fat": 0.18,
+  "protein": 0.55,
+  "calcium": 1.44,
+  "phosphorus": 4.94,
+  "salt": 23.79,
+  "potassium": 14.19,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.07,
+  "cholesterol": 1.12,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbe1"
+  },
+  "name": "매운탕",
+  "kcal": 6.71,
+  "carbs": 0.31,
+  "sugar": 0.03,
+  "fat": 0.36,
+  "protein": 0.62,
+  "calcium": 1.97,
+  "phosphorus": 7.28,
+  "salt": 35.52,
+  "potassium": 25.38,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.04,
+  "cholesterol": 2.48,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbe2"
+  },
+  "name": "꼬리곰탕",
+  "kcal": 10.72,
+  "carbs": 0.16,
+  "sugar": 0,
+  "fat": 0.75,
+  "protein": 0.78,
+  "calcium": 1.38,
+  "phosphorus": 7.9,
+  "salt": 10.92,
+  "potassium": 11.69,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.17,
+  "cholesterol": 5.16,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbe3"
+  },
+  "name": "꽃게탕",
+  "kcal": 4.01,
+  "carbs": 0.35,
+  "sugar": 0,
+  "fat": 0.09,
+  "protein": 0.53,
+  "calcium": 4.57,
+  "phosphorus": 7.38,
+  "salt": 37.81,
+  "potassium": 22.83,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.14,
+  "cholesterol": 3.47,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbe4"
+  },
+  "name": "낙지탕",
+  "kcal": 3.1,
+  "carbs": 0.2,
+  "sugar": 0,
+  "fat": 0.05,
+  "protein": 0.49,
+  "calcium": 1.71,
+  "phosphorus": 6.26,
+  "salt": 28.52,
+  "potassium": 15.17,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.07,
+  "cholesterol": 4.16,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbe5"
+  },
+  "name": "내장탕",
+  "kcal": 7.85,
+  "carbs": 0.2,
+  "sugar": 0,
+  "fat": 0.45,
+  "protein": 0.81,
+  "calcium": 3.84,
+  "phosphorus": 7.99,
+  "salt": 34.04,
+  "potassium": 17.74,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.2,
+  "cholesterol": 6.67,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbe6"
+  },
+  "name": "닭곰탕",
+  "kcal": 8.12,
+  "carbs": 0.24,
+  "sugar": 0,
+  "fat": 0.37,
+  "protein": 0.91,
+  "calcium": 1.84,
+  "phosphorus": 11.65,
+  "salt": 15.46,
+  "potassium": 26.03,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.11,
+  "cholesterol": 3.55,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbe7"
+  },
+  "name": "닭볶음탕",
+  "kcal": 12.39,
+  "carbs": 0.64,
+  "sugar": 0.07,
+  "fat": 0.58,
+  "protein": 1.13,
+  "calcium": 1.33,
+  "phosphorus": 11.76,
+  "salt": 34.35,
+  "potassium": 21.3,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.14,
+  "cholesterol": 3.98,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbe8"
+  },
+  "name": "지리탕",
+  "kcal": 4.34,
+  "carbs": 0.18,
+  "sugar": 0,
+  "fat": 0.14,
+  "protein": 0.64,
+  "calcium": 3.33,
+  "phosphorus": 7.93,
+  "salt": 28.09,
+  "potassium": 26.36,
+  "magnesium": 0,
+  "iron": 0.04,
+  "zinc": 0.03,
+  "cholesterol": 2.57,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbe9"
+  },
+  "name": "도가니탕",
+  "kcal": 7.05,
+  "carbs": 0.07,
+  "sugar": 0,
+  "fat": 0.43,
+  "protein": 0.68,
+  "calcium": 0.75,
+  "phosphorus": 6.33,
+  "salt": 7.49,
+  "potassium": 9.07,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.17,
+  "cholesterol": 2.41,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbea"
+  },
+  "name": "삼계탕",
+  "kcal": 8.81,
+  "carbs": 0.44,
+  "sugar": 0,
+  "fat": 0.41,
+  "protein": 0.77,
+  "calcium": 0.59,
+  "phosphorus": 7.42,
+  "salt": 12.11,
+  "potassium": 4.4,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.1,
+  "cholesterol": 2.85,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbeb"
+  },
+  "name": "설렁탕",
+  "kcal": 7.05,
+  "carbs": 0.18,
+  "sugar": 0,
+  "fat": 0.3,
+  "protein": 0.88,
+  "calcium": 1.45,
+  "phosphorus": 7.5,
+  "salt": 12.09,
+  "potassium": 7.21,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.37,
+  "cholesterol": 3.66,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbec"
+  },
+  "name": "알탕",
+  "kcal": 6.06,
+  "carbs": 0.71,
+  "sugar": 0.21,
+  "fat": 0.1,
+  "protein": 0.7,
+  "calcium": 1.63,
+  "phosphorus": 11.3,
+  "salt": 34.19,
+  "potassium": 21,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.06,
+  "cholesterol": 8.73,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbed"
+  },
+  "name": "연포탕",
+  "kcal": 5.41,
+  "carbs": 0.22,
+  "sugar": 0,
+  "fat": 0.09,
+  "protein": 0.92,
+  "calcium": 3.67,
+  "phosphorus": 11.72,
+  "salt": 23.07,
+  "potassium": 23.68,
+  "magnesium": 0,
+  "iron": 0.33,
+  "zinc": 0.11,
+  "cholesterol": 8.44,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbee"
+  },
+  "name": "오리탕",
+  "kcal": 8.01,
+  "carbs": 0.4,
+  "sugar": 0.02,
+  "fat": 0.36,
+  "protein": 0.72,
+  "calcium": 1.48,
+  "phosphorus": 7.98,
+  "salt": 30.83,
+  "potassium": 13.51,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.09,
+  "cholesterol": 2.69,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbef"
+  },
+  "name": "추어탕",
+  "kcal": 4.84,
+  "carbs": 0.35,
+  "sugar": 0.03,
+  "fat": 0.16,
+  "protein": 0.53,
+  "calcium": 22.84,
+  "phosphorus": 13.94,
+  "salt": 29.67,
+  "potassium": 12.96,
+  "magnesium": 0,
+  "iron": 0.35,
+  "zinc": 0.1,
+  "cholesterol": 4.26,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbf0"
+  },
+  "name": "해물탕",
+  "kcal": 4.54,
+  "carbs": 0.33,
+  "sugar": 0.03,
+  "fat": 0.06,
+  "protein": 0.7,
+  "calcium": 3.9,
+  "phosphorus": 9.25,
+  "salt": 34.53,
+  "potassium": 20.31,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.13,
+  "cholesterol": 5.84,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbf1"
+  },
+  "name": "닭개장",
+  "kcal": 4.53,
+  "carbs": 0.27,
+  "sugar": 0,
+  "fat": 0.21,
+  "protein": 0.48,
+  "calcium": 1.25,
+  "phosphorus": 5.55,
+  "salt": 25.51,
+  "potassium": 15.11,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.07,
+  "cholesterol": 1.38,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbf2"
+  },
+  "name": "육개장",
+  "kcal": 3.13,
+  "carbs": 0.26,
+  "sugar": 0,
+  "fat": 0.13,
+  "protein": 0.31,
+  "calcium": 1.41,
+  "phosphorus": 3.31,
+  "salt": 25.29,
+  "potassium": 16.35,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.05,
+  "cholesterol": 0.55,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbf3"
+  },
+  "name": "뼈해장국",
+  "kcal": 6.93,
+  "carbs": 0.25,
+  "sugar": 0,
+  "fat": 0.37,
+  "protein": 0.68,
+  "calcium": 5.65,
+  "phosphorus": 6.09,
+  "salt": 31.92,
+  "potassium": 12.99,
+  "magnesium": 0,
+  "iron": 0.34,
+  "zinc": 0.13,
+  "cholesterol": 6.34,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbf4"
+  },
+  "name": "미역오이냉국",
+  "kcal": 1.72,
+  "carbs": 0.44,
+  "sugar": 0.2,
+  "fat": 0.03,
+  "protein": 0.12,
+  "calcium": 4.77,
+  "phosphorus": 4.66,
+  "salt": 32.97,
+  "potassium": 33.78,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbf5"
+  },
+  "name": "고등어찌개",
+  "kcal": 10.09,
+  "carbs": 0.53,
+  "sugar": 0,
+  "fat": 0.47,
+  "protein": 0.99,
+  "calcium": 3.08,
+  "phosphorus": 12.8,
+  "salt": 43.33,
+  "potassium": 33.55,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.07,
+  "cholesterol": 3.44,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbf6"
+  },
+  "name": "꽁치찌개",
+  "kcal": 11.89,
+  "carbs": 0.48,
+  "sugar": 0.02,
+  "fat": 0.69,
+  "protein": 0.98,
+  "calcium": 3.72,
+  "phosphorus": 12.95,
+  "salt": 43.21,
+  "potassium": 23.52,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.06,
+  "cholesterol": 2.82,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbf7"
+  },
+  "name": "동태찌개",
+  "kcal": 4.62,
+  "carbs": 0.24,
+  "sugar": 0.02,
+  "fat": 0.1,
+  "protein": 0.74,
+  "calcium": 3.28,
+  "phosphorus": 9.86,
+  "salt": 31.09,
+  "potassium": 19.66,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.03,
+  "cholesterol": 3.66,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbf8"
+  },
+  "name": "부대찌개",
+  "kcal": 8.77,
+  "carbs": 0.78,
+  "sugar": 0,
+  "fat": 0.47,
+  "protein": 0.46,
+  "calcium": 2.34,
+  "phosphorus": 5.74,
+  "salt": 44.82,
+  "potassium": 14.68,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.07,
+  "cholesterol": 0.72,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbf9"
+  },
+  "name": "된장찌개",
+  "kcal": 3.68,
+  "carbs": 0.4,
+  "sugar": 0,
+  "fat": 0.13,
+  "protein": 0.29,
+  "calcium": 2.82,
+  "phosphorus": 4.87,
+  "salt": 50.54,
+  "potassium": 10.74,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbfa"
+  },
+  "name": "청국장찌개",
+  "kcal": 6.89,
+  "carbs": 0.37,
+  "sugar": 0,
+  "fat": 0.36,
+  "protein": 0.65,
+  "calcium": 4.52,
+  "phosphorus": 10.59,
+  "salt": 45.99,
+  "potassium": 23.68,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.11,
+  "cholesterol": 0.9,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbfb"
+  },
+  "name": "두부전골",
+  "kcal": 6.3,
+  "carbs": 0.32,
+  "sugar": 0.02,
+  "fat": 0.38,
+  "protein": 0.58,
+  "calcium": 7.32,
+  "phosphorus": 8.82,
+  "salt": 33.03,
+  "potassium": 16.14,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbfc"
+  },
+  "name": "곱창전골",
+  "kcal": 8.88,
+  "carbs": 0.45,
+  "sugar": 0,
+  "fat": 0.58,
+  "protein": 0.64,
+  "calcium": 5.53,
+  "phosphorus": 8.95,
+  "salt": 29.17,
+  "potassium": 19.09,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.09,
+  "cholesterol": 3.84,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbfd"
+  },
+  "name": "소고기전골",
+  "kcal": 6.77,
+  "carbs": 0.55,
+  "sugar": 0,
+  "fat": 0.25,
+  "protein": 0.65,
+  "calcium": 3.93,
+  "phosphorus": 8.08,
+  "salt": 36.34,
+  "potassium": 23.02,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.18,
+  "cholesterol": 1.06,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbfe"
+  },
+  "name": "국수전골",
+  "kcal": 16.08,
+  "carbs": 1.67,
+  "sugar": 0.1,
+  "fat": 0.56,
+  "protein": 1.13,
+  "calcium": 2.04,
+  "phosphorus": 9.8,
+  "salt": 38.12,
+  "potassium": 38.48,
+  "magnesium": 0,
+  "iron": 0.27,
+  "zinc": 0.13,
+  "cholesterol": 2.04,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cbff"
+  },
+  "name": "돼지고기김치찌개",
+  "kcal": 6.16,
+  "carbs": 0.23,
+  "sugar": 0,
+  "fat": 0.46,
+  "protein": 0.39,
+  "calcium": 3.42,
+  "phosphorus": 5.89,
+  "salt": 49.04,
+  "potassium": 18.15,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.05,
+  "cholesterol": 0.63,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc00"
+  },
+  "name": "버섯찌개",
+  "kcal": 4.3,
+  "carbs": 0.38,
+  "sugar": 0,
+  "fat": 0.19,
+  "protein": 0.42,
+  "calcium": 4.14,
+  "phosphorus": 7.08,
+  "salt": 31.7,
+  "potassium": 18.4,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc01"
+  },
+  "name": "참치김치찌개",
+  "kcal": 4.84,
+  "carbs": 0.33,
+  "sugar": 0,
+  "fat": 0.27,
+  "protein": 0.42,
+  "calcium": 5.01,
+  "phosphorus": 7.09,
+  "salt": 65.11,
+  "potassium": 19.88,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.04,
+  "cholesterol": 0.89,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc02"
+  },
+  "name": "순두부찌개",
+  "kcal": 4.96,
+  "carbs": 0.22,
+  "sugar": 0,
+  "fat": 0.35,
+  "protein": 0.37,
+  "calcium": 3.38,
+  "phosphorus": 5.46,
+  "salt": 33.28,
+  "potassium": 13.7,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.04,
+  "cholesterol": 0.16,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc03"
+  },
+  "name": "콩비지찌개",
+  "kcal": 6.22,
+  "carbs": 0.61,
+  "sugar": 0,
+  "fat": 0.32,
+  "protein": 0.4,
+  "calcium": 3.41,
+  "phosphorus": 3.65,
+  "salt": 30.16,
+  "potassium": 12.42,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.05,
+  "cholesterol": 0.68,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc04"
+  },
+  "name": "햄김치찌개",
+  "kcal": 6.35,
+  "carbs": 0.51,
+  "sugar": 0,
+  "fat": 0.36,
+  "protein": 0.39,
+  "calcium": 3.88,
+  "phosphorus": 7.34,
+  "salt": 50.93,
+  "potassium": 16.1,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.05,
+  "cholesterol": 0.78,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc05"
+  },
+  "name": "호박찌개",
+  "kcal": 3.28,
+  "carbs": 0.42,
+  "sugar": 0.07,
+  "fat": 0.08,
+  "protein": 0.26,
+  "calcium": 6.49,
+  "phosphorus": 7.83,
+  "salt": 34.27,
+  "potassium": 21.73,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.03,
+  "cholesterol": 1.98,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc06"
+  },
+  "name": "고추장찌개",
+  "kcal": 5.27,
+  "carbs": 0.4,
+  "sugar": 0,
+  "fat": 0.25,
+  "protein": 0.51,
+  "calcium": 9.96,
+  "phosphorus": 9.88,
+  "salt": 18.7,
+  "potassium": 17.27,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.06,
+  "cholesterol": 0.96,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc07"
+  },
+  "name": "대구찜",
+  "kcal": 7.45,
+  "carbs": 0.53,
+  "sugar": 0,
+  "fat": 0.17,
+  "protein": 1.08,
+  "calcium": 4.48,
+  "phosphorus": 13.21,
+  "salt": 37.76,
+  "potassium": 37.99,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.06,
+  "cholesterol": 3.93,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc08"
+  },
+  "name": "도미찜",
+  "kcal": 12.63,
+  "carbs": 0.08,
+  "sugar": 0,
+  "fat": 0.37,
+  "protein": 2.1,
+  "calcium": 4.15,
+  "phosphorus": 27.41,
+  "salt": 88.2,
+  "potassium": 42.02,
+  "magnesium": 0.32,
+  "iron": 0.11,
+  "zinc": 0.08,
+  "cholesterol": 19.12,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc09"
+  },
+  "name": "문어숙회",
+  "kcal": 8.44,
+  "carbs": 0.02,
+  "sugar": 0,
+  "fat": 0.09,
+  "protein": 1.77,
+  "calcium": 3.54,
+  "phosphorus": 21.43,
+  "salt": 27.85,
+  "potassium": 34.22,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.18,
+  "cholesterol": 14.59,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc0a"
+  },
+  "name": "아귀찜",
+  "kcal": 7.77,
+  "carbs": 0.44,
+  "sugar": 0,
+  "fat": 0.17,
+  "protein": 1.22,
+  "calcium": 4.04,
+  "phosphorus": 15.48,
+  "salt": 36.58,
+  "potassium": 36.69,
+  "magnesium": 0,
+  "iron": 0.29,
+  "zinc": 0.09,
+  "cholesterol": 4.69,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc0b"
+  },
+  "name": "조기찜",
+  "kcal": 18.52,
+  "carbs": 0.18,
+  "sugar": 0.03,
+  "fat": 0.92,
+  "protein": 2.23,
+  "calcium": 4.56,
+  "phosphorus": 21.48,
+  "salt": 63.19,
+  "potassium": 47.12,
+  "magnesium": 0.07,
+  "iron": 0.12,
+  "zinc": 0.1,
+  "cholesterol": 10.57,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc0c"
+  },
+  "name": "참꼬막",
+  "kcal": 11.22,
+  "carbs": 0.61,
+  "sugar": 0.2,
+  "fat": 0.27,
+  "protein": 1.62,
+  "calcium": 12.71,
+  "phosphorus": 26.52,
+  "salt": 50.03,
+  "potassium": 41.22,
+  "magnesium": 0,
+  "iron": 0.77,
+  "zinc": 0.27,
+  "cholesterol": 5.87,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc0d"
+  },
+  "name": "해물찜",
+  "kcal": 7.95,
+  "carbs": 0.72,
+  "sugar": 0,
+  "fat": 0.18,
+  "protein": 1.01,
+  "calcium": 5.29,
+  "phosphorus": 13.15,
+  "salt": 44.27,
+  "potassium": 28.81,
+  "magnesium": 0,
+  "iron": 0.33,
+  "zinc": 0.11,
+  "cholesterol": 6.48,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc0e"
+  },
+  "name": "소갈비찜",
+  "kcal": 20.02,
+  "carbs": 0.45,
+  "sugar": 0,
+  "fat": 1.17,
+  "protein": 1.7,
+  "calcium": 0.92,
+  "phosphorus": 15.42,
+  "salt": 30.74,
+  "potassium": 29.96,
+  "magnesium": 0,
+  "iron": 0.15,
+  "zinc": 0.37,
+  "cholesterol": 5.67,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc0f"
+  },
+  "name": "돼지갈비찜",
+  "kcal": 14.69,
+  "carbs": 0.52,
+  "sugar": 0.1,
+  "fat": 0.85,
+  "protein": 1.21,
+  "calcium": 1.82,
+  "phosphorus": 14.34,
+  "salt": 55.69,
+  "potassium": 23.03,
+  "magnesium": 0,
+  "iron": 0.06,
+  "zinc": 0.16,
+  "cholesterol": 4.14,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc10"
+  },
+  "name": "돼지고기수육",
+  "kcal": 40.61,
+  "carbs": 0.29,
+  "sugar": 0,
+  "fat": 3.32,
+  "protein": 2.05,
+  "calcium": 2.23,
+  "phosphorus": 16.12,
+  "salt": 12.98,
+  "potassium": 25.65,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.29,
+  "cholesterol": 6.38,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc11"
+  },
+  "name": "찜닭",
+  "kcal": 9.06,
+  "carbs": 0.94,
+  "sugar": 0.38,
+  "fat": 0.24,
+  "protein": 0.77,
+  "calcium": 1.55,
+  "phosphorus": 4.69,
+  "salt": 35.27,
+  "potassium": 15.27,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.05,
+  "cholesterol": 2.28,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc12"
+  },
+  "name": "족발",
+  "kcal": 25.44,
+  "carbs": 2.15,
+  "sugar": 0,
+  "fat": 1.11,
+  "protein": 1.73,
+  "calcium": 2.55,
+  "phosphorus": 11.03,
+  "salt": 55.94,
+  "potassium": 22.57,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.11,
+  "cholesterol": 6.53,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc13"
+  },
+  "name": "달걀찜",
+  "kcal": 7.6,
+  "carbs": 0.19,
+  "sugar": 0,
+  "fat": 0.44,
+  "protein": 0.65,
+  "calcium": 3.57,
+  "phosphorus": 9.21,
+  "salt": 34.41,
+  "potassium": 9.18,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.07,
+  "cholesterol": 25.38,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc14"
+  },
+  "name": "닭갈비",
+  "kcal": 18.74,
+  "carbs": 0.82,
+  "sugar": 0.12,
+  "fat": 0.96,
+  "protein": 1.74,
+  "calcium": 3.31,
+  "phosphorus": 16.74,
+  "salt": 32.52,
+  "potassium": 36.26,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.19,
+  "cholesterol": 7.47,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc15"
+  },
+  "name": "닭꼬치",
+  "kcal": 25.36,
+  "carbs": 1.84,
+  "sugar": 1.23,
+  "fat": 1.13,
+  "protein": 1.76,
+  "calcium": 1.25,
+  "phosphorus": 15.26,
+  "salt": 41.04,
+  "potassium": 24.2,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.18,
+  "cholesterol": 6.8,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc16"
+  },
+  "name": "돼지갈비",
+  "kcal": 24.85,
+  "carbs": 0.76,
+  "sugar": 0.5,
+  "fat": 1.47,
+  "protein": 1.99,
+  "calcium": 1.97,
+  "phosphorus": 21.9,
+  "salt": 34.49,
+  "potassium": 28.12,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.26,
+  "cholesterol": 7.2,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc17"
+  },
+  "name": "떡갈비",
+  "kcal": 30.52,
+  "carbs": 1.06,
+  "sugar": 0.5,
+  "fat": 2.06,
+  "protein": 1.72,
+  "calcium": 1.05,
+  "phosphorus": 16.47,
+  "salt": 33.55,
+  "potassium": 36.63,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.35,
+  "cholesterol": 6.3,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc18"
+  },
+  "name": "불고기",
+  "kcal": 25.79,
+  "carbs": 0.87,
+  "sugar": 0.07,
+  "fat": 1.45,
+  "protein": 2.19,
+  "calcium": 4.15,
+  "phosphorus": 19.93,
+  "salt": 42.17,
+  "potassium": 59.16,
+  "magnesium": 0,
+  "iron": 0.28,
+  "zinc": 0.56,
+  "cholesterol": 7.08,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc19"
+  },
+  "name": "소곱창구이",
+  "kcal": 42.61,
+  "carbs": 0.43,
+  "sugar": 0,
+  "fat": 3.45,
+  "protein": 2.37,
+  "calcium": 5.81,
+  "phosphorus": 26.98,
+  "salt": 22.18,
+  "potassium": 37.76,
+  "magnesium": 0,
+  "iron": 0.59,
+  "zinc": 0.33,
+  "cholesterol": 43.5,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc1a"
+  },
+  "name": "소양념갈비구이",
+  "kcal": 32.9,
+  "carbs": 0.92,
+  "sugar": 0.48,
+  "fat": 2.22,
+  "protein": 2.07,
+  "calcium": 2.65,
+  "phosphorus": 19.86,
+  "salt": 42.41,
+  "potassium": 44.18,
+  "magnesium": 0,
+  "iron": 0.19,
+  "zinc": 0.41,
+  "cholesterol": 7.37,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc1b"
+  },
+  "name": "소불고기",
+  "kcal": 8.74,
+  "carbs": 0.98,
+  "sugar": 0.47,
+  "fat": 0.23,
+  "protein": 0.71,
+  "calcium": 3.16,
+  "phosphorus": 7.89,
+  "salt": 41.41,
+  "potassium": 27.37,
+  "magnesium": 0,
+  "iron": 0.19,
+  "zinc": 0.08,
+  "cholesterol": 1.4,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc1c"
+  },
+  "name": "양념왕갈비",
+  "kcal": 32.37,
+  "carbs": 1,
+  "sugar": 0.56,
+  "fat": 2.25,
+  "protein": 1.96,
+  "calcium": 2.96,
+  "phosphorus": 22.35,
+  "salt": 35.55,
+  "potassium": 30.07,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.26,
+  "cholesterol": 6.9,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc1d"
+  },
+  "name": "햄버거스테이크",
+  "kcal": 21.84,
+  "carbs": 1.07,
+  "sugar": 0,
+  "fat": 1.4,
+  "protein": 1.25,
+  "calcium": 3.03,
+  "phosphorus": 12.92,
+  "salt": 46.01,
+  "potassium": 39.35,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.23,
+  "cholesterol": 3.79,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc1e"
+  },
+  "name": "훈제오리",
+  "kcal": 31.6,
+  "carbs": 0.47,
+  "sugar": 0.25,
+  "fat": 2.59,
+  "protein": 1.53,
+  "calcium": 1.69,
+  "phosphorus": 18.27,
+  "salt": 48.68,
+  "potassium": 27.76,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.14,
+  "cholesterol": 8.01,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc1f"
+  },
+  "name": "치킨데리야끼",
+  "kcal": 20.37,
+  "carbs": 1.49,
+  "sugar": 0.11,
+  "fat": 0.95,
+  "protein": 1.39,
+  "calcium": 1.94,
+  "phosphorus": 14.74,
+  "salt": 25.47,
+  "potassium": 23.09,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.18,
+  "cholesterol": 5.04,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc20"
+  },
+  "name": "치킨윙",
+  "kcal": 21.94,
+  "carbs": 1,
+  "sugar": 0.25,
+  "fat": 1.42,
+  "protein": 1.14,
+  "calcium": 1.17,
+  "phosphorus": 7.26,
+  "salt": 35.14,
+  "potassium": 11.32,
+  "magnesium": 0.17,
+  "iron": 0.1,
+  "zinc": 0.08,
+  "cholesterol": 6.6,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc21"
+  },
+  "name": "더덕구이",
+  "kcal": 18.37,
+  "carbs": 3.18,
+  "sugar": 1.08,
+  "fat": 0.56,
+  "protein": 0.58,
+  "calcium": 3.76,
+  "phosphorus": 15.11,
+  "salt": 74.58,
+  "potassium": 32.63,
+  "magnesium": 0.33,
+  "iron": 0.28,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc22"
+  },
+  "name": "양배추구이",
+  "kcal": 6.09,
+  "carbs": 0.76,
+  "sugar": 0.08,
+  "fat": 0.27,
+  "protein": 0.27,
+  "calcium": 3.22,
+  "phosphorus": 4.58,
+  "salt": 24.23,
+  "potassium": 23.54,
+  "magnesium": 1.63,
+  "iron": 0.07,
+  "zinc": 0.06,
+  "cholesterol": 0.55,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc23"
+  },
+  "name": "두부구이",
+  "kcal": 9.07,
+  "carbs": 0.15,
+  "sugar": 0,
+  "fat": 0.63,
+  "protein": 0.94,
+  "calcium": 12.77,
+  "phosphorus": 14.24,
+  "salt": 16.44,
+  "potassium": 9.73,
+  "magnesium": 0.04,
+  "iron": 0.15,
+  "zinc": 0.1,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc24"
+  },
+  "name": "삼치구이",
+  "kcal": 17.79,
+  "carbs": 0.42,
+  "sugar": 0,
+  "fat": 0.9,
+  "protein": 1.89,
+  "calcium": 5.19,
+  "phosphorus": 22.84,
+  "salt": 39.89,
+  "potassium": 45.47,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.11,
+  "cholesterol": 7.84,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc25"
+  },
+  "name": "가자미전",
+  "kcal": 14.7,
+  "carbs": 0.45,
+  "sugar": 0,
+  "fat": 0.47,
+  "protein": 2,
+  "calcium": 3.97,
+  "phosphorus": 18.63,
+  "salt": 54.29,
+  "potassium": 33.07,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.06,
+  "cholesterol": 15.13,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc26"
+  },
+  "name": "굴전",
+  "kcal": 19.28,
+  "carbs": 1.39,
+  "sugar": 0,
+  "fat": 0.91,
+  "protein": 1.26,
+  "calcium": 9.56,
+  "phosphorus": 20.01,
+  "salt": 33.1,
+  "potassium": 25.44,
+  "magnesium": 2.38,
+  "iron": 0.33,
+  "zinc": 1.02,
+  "cholesterol": 12.3,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc27"
+  },
+  "name": "동태전",
+  "kcal": 17.68,
+  "carbs": 0.77,
+  "sugar": 0,
+  "fat": 1.08,
+  "protein": 1.32,
+  "calcium": 4.13,
+  "phosphorus": 17.08,
+  "salt": 44.87,
+  "potassium": 25.27,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.04,
+  "cholesterol": 8.97,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc28"
+  },
+  "name": "해물파전",
+  "kcal": 17.82,
+  "carbs": 1.85,
+  "sugar": 0,
+  "fat": 0.84,
+  "protein": 0.86,
+  "calcium": 7.45,
+  "phosphorus": 12.46,
+  "salt": 23.76,
+  "potassium": 35.37,
+  "magnesium": 0,
+  "iron": 0.46,
+  "zinc": 0.09,
+  "cholesterol": 6.46,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc29"
+  },
+  "name": "동그랑땡",
+  "kcal": 20.83,
+  "carbs": 0.98,
+  "sugar": 0,
+  "fat": 1.25,
+  "protein": 1.31,
+  "calcium": 4.94,
+  "phosphorus": 14.79,
+  "salt": 38.65,
+  "potassium": 24.91,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.14,
+  "cholesterol": 12.29,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc2a"
+  },
+  "name": "햄부침",
+  "kcal": 23.26,
+  "carbs": 0.97,
+  "sugar": 0,
+  "fat": 1.55,
+  "protein": 1.31,
+  "calcium": 0.74,
+  "phosphorus": 25,
+  "salt": 77.47,
+  "potassium": 19.16,
+  "magnesium": 0.24,
+  "iron": 0.07,
+  "zinc": 0.09,
+  "cholesterol": 5.21,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc2b"
+  },
+  "name": "육전",
+  "kcal": 19.71,
+  "carbs": 0.67,
+  "sugar": 0.03,
+  "fat": 0.95,
+  "protein": 1.96,
+  "calcium": 1.31,
+  "phosphorus": 17.32,
+  "salt": 24.87,
+  "potassium": 33.83,
+  "magnesium": 0.34,
+  "iron": 0.2,
+  "zinc": 0.36,
+  "cholesterol": 9.15,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc2c"
+  },
+  "name": "감자전",
+  "kcal": 18.31,
+  "carbs": 2.69,
+  "sugar": 0,
+  "fat": 0.68,
+  "protein": 0.48,
+  "calcium": 0.76,
+  "phosphorus": 9.62,
+  "salt": 22.83,
+  "potassium": 67.18,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc2d"
+  },
+  "name": "고추전",
+  "kcal": 17.43,
+  "carbs": 1.19,
+  "sugar": 0.05,
+  "fat": 0.99,
+  "protein": 0.93,
+  "calcium": 2.09,
+  "phosphorus": 10.79,
+  "salt": 23.99,
+  "potassium": 27.72,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.15,
+  "cholesterol": 10.71,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc2e"
+  },
+  "name": "김치전",
+  "kcal": 19.05,
+  "carbs": 2.14,
+  "sugar": 0,
+  "fat": 0.83,
+  "protein": 0.88,
+  "calcium": 5.6,
+  "phosphorus": 14.28,
+  "salt": 52.37,
+  "potassium": 35.31,
+  "magnesium": 0,
+  "iron": 0.16,
+  "zinc": 0.13,
+  "cholesterol": 9.07,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc2f"
+  },
+  "name": "깻잎전",
+  "kcal": 23.84,
+  "carbs": 1.11,
+  "sugar": 0.05,
+  "fat": 1.64,
+  "protein": 1.22,
+  "calcium": 7.18,
+  "phosphorus": 13.32,
+  "salt": 31,
+  "potassium": 33.6,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.21,
+  "cholesterol": 11.43,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc30"
+  },
+  "name": "녹두빈대떡",
+  "kcal": 20.07,
+  "carbs": 1.86,
+  "sugar": 0,
+  "fat": 0.83,
+  "protein": 1,
+  "calcium": 3.97,
+  "phosphorus": 16.2,
+  "salt": 24.6,
+  "potassium": 39.15,
+  "magnesium": 1.51,
+  "iron": 0.17,
+  "zinc": 0.1,
+  "cholesterol": 1.38,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc31"
+  },
+  "name": "미나리전",
+  "kcal": 14.39,
+  "carbs": 2.01,
+  "sugar": 0,
+  "fat": 0.58,
+  "protein": 0.41,
+  "calcium": 2.61,
+  "phosphorus": 6.87,
+  "salt": 15.71,
+  "potassium": 39.92,
+  "magnesium": 0,
+  "iron": 0.22,
+  "zinc": 0.04,
+  "cholesterol": 1.9,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc32"
+  },
+  "name": "배추전",
+  "kcal": 16.07,
+  "carbs": 2.17,
+  "sugar": 0,
+  "fat": 0.7,
+  "protein": 0.43,
+  "calcium": 6.39,
+  "phosphorus": 6.95,
+  "salt": 23.73,
+  "potassium": 41.23,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.08,
+  "cholesterol": 2.03,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc33"
+  },
+  "name": "버섯전",
+  "kcal": 15.98,
+  "carbs": 1.24,
+  "sugar": 0.05,
+  "fat": 0.86,
+  "protein": 0.8,
+  "calcium": 2.54,
+  "phosphorus": 8.84,
+  "salt": 20.53,
+  "potassium": 19.4,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.1,
+  "cholesterol": 8.41,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc34"
+  },
+  "name": "부추전",
+  "kcal": 16.08,
+  "carbs": 2.13,
+  "sugar": 0,
+  "fat": 0.63,
+  "protein": 0.48,
+  "calcium": 2.05,
+  "phosphorus": 4.54,
+  "salt": 17.01,
+  "potassium": 27.04,
+  "magnesium": 0,
+  "iron": 0.16,
+  "zinc": 0.03,
+  "cholesterol": 0.48,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc35"
+  },
+  "name": "야채전",
+  "kcal": 19.49,
+  "carbs": 2.5,
+  "sugar": 0,
+  "fat": 0.88,
+  "protein": 0.49,
+  "calcium": 3.12,
+  "phosphorus": 7.76,
+  "salt": 32.29,
+  "potassium": 43.62,
+  "magnesium": 2.05,
+  "iron": 0.13,
+  "zinc": 0.06,
+  "cholesterol": 2.38,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc36"
+  },
+  "name": "파전",
+  "kcal": 18.7,
+  "carbs": 2.5,
+  "sugar": 0,
+  "fat": 0.8,
+  "protein": 0.52,
+  "calcium": 5.84,
+  "phosphorus": 7.89,
+  "salt": 22.53,
+  "potassium": 32.12,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.06,
+  "cholesterol": 3.8,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc37"
+  },
+  "name": "호박부침개",
+  "kcal": 13.07,
+  "carbs": 0.87,
+  "sugar": 0,
+  "fat": 0.92,
+  "protein": 0.34,
+  "calcium": 1.36,
+  "phosphorus": 4.05,
+  "salt": 17.2,
+  "potassium": 19.27,
+  "magnesium": 0.38,
+  "iron": 0.06,
+  "zinc": 0.03,
+  "cholesterol": 6.17,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc38"
+  },
+  "name": "호박전",
+  "kcal": 14.35,
+  "carbs": 1.1,
+  "sugar": 0,
+  "fat": 0.96,
+  "protein": 0.44,
+  "calcium": 3.24,
+  "phosphorus": 6.4,
+  "salt": 18.31,
+  "potassium": 44.61,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.06,
+  "cholesterol": 7.13,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc39"
+  },
+  "name": "달걀말이",
+  "kcal": 17.22,
+  "carbs": 0.47,
+  "sugar": 0,
+  "fat": 1.12,
+  "protein": 1.2,
+  "calcium": 4.96,
+  "phosphorus": 16.93,
+  "salt": 32.33,
+  "potassium": 20.09,
+  "magnesium": 1.32,
+  "iron": 0.16,
+  "zinc": 0.14,
+  "cholesterol": 47.5,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc3a"
+  },
+  "name": "두부부침",
+  "kcal": 13.49,
+  "carbs": 0.43,
+  "sugar": 0,
+  "fat": 0.88,
+  "protein": 0.99,
+  "calcium": 13.1,
+  "phosphorus": 15.01,
+  "salt": 19.98,
+  "potassium": 11.99,
+  "magnesium": 0.15,
+  "iron": 0.16,
+  "zinc": 0.11,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc3b"
+  },
+  "name": "두부전",
+  "kcal": 16.93,
+  "carbs": 0.54,
+  "sugar": 0,
+  "fat": 1.2,
+  "protein": 1.24,
+  "calcium": 15.19,
+  "phosphorus": 18.32,
+  "salt": 33.37,
+  "potassium": 12.44,
+  "magnesium": 0,
+  "iron": 0.19,
+  "zinc": 0.13,
+  "cholesterol": 4.43,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc3c"
+  },
+  "name": "건새우볶음",
+  "kcal": 34.59,
+  "carbs": 2.4,
+  "sugar": 1.35,
+  "fat": 1.15,
+  "protein": 3.61,
+  "calcium": 129.84,
+  "phosphorus": 71.67,
+  "salt": 96.55,
+  "potassium": 52.8,
+  "magnesium": 0,
+  "iron": 0.31,
+  "zinc": 0.47,
+  "cholesterol": 37.2,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc3d"
+  },
+  "name": "낙지볶음",
+  "kcal": 9.03,
+  "carbs": 1.18,
+  "sugar": 0.34,
+  "fat": 0.15,
+  "protein": 0.89,
+  "calcium": 4.31,
+  "phosphorus": 12.78,
+  "salt": 43.44,
+  "potassium": 38.16,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.15,
+  "cholesterol": 6.76,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc3e"
+  },
+  "name": "멸치볶음",
+  "kcal": 34.62,
+  "carbs": 2.85,
+  "sugar": 1.72,
+  "fat": 1.02,
+  "protein": 3.48,
+  "calcium": 69.05,
+  "phosphorus": 78.93,
+  "salt": 137.05,
+  "potassium": 102.05,
+  "magnesium": 0,
+  "iron": 0.47,
+  "zinc": 0.14,
+  "cholesterol": 41.77,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc3f"
+  },
+  "name": "어묵볶음",
+  "kcal": 18.77,
+  "carbs": 2.42,
+  "sugar": 0.3,
+  "fat": 0.54,
+  "protein": 1.2,
+  "calcium": 8.04,
+  "phosphorus": 11.18,
+  "salt": 85.59,
+  "potassium": 30.61,
+  "magnesium": 0,
+  "iron": 0.15,
+  "zinc": 0.09,
+  "cholesterol": 1.26,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc40"
+  },
+  "name": "오징어볶음",
+  "kcal": 12.18,
+  "carbs": 1.37,
+  "sugar": 0.46,
+  "fat": 0.34,
+  "protein": 1.02,
+  "calcium": 4.72,
+  "phosphorus": 14.74,
+  "salt": 51.29,
+  "potassium": 41.11,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.12,
+  "cholesterol": 9.9,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc41"
+  },
+  "name": "오징어채볶음",
+  "kcal": 27.86,
+  "carbs": 3.5,
+  "sugar": 0.68,
+  "fat": 0.34,
+  "protein": 2.69,
+  "calcium": 3.12,
+  "phosphorus": 32.41,
+  "salt": 120.48,
+  "potassium": 25.45,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.2,
+  "cholesterol": 25.02,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc42"
+  },
+  "name": "주꾸미볶음",
+  "kcal": 10.59,
+  "carbs": 1.08,
+  "sugar": 0.34,
+  "fat": 0.31,
+  "protein": 1.01,
+  "calcium": 4.4,
+  "phosphorus": 13.9,
+  "salt": 48.49,
+  "potassium": 34.95,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.17,
+  "cholesterol": 19.28,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc43"
+  },
+  "name": "해물볶음",
+  "kcal": 10.51,
+  "carbs": 0.91,
+  "sugar": 0.19,
+  "fat": 0.38,
+  "protein": 0.94,
+  "calcium": 3.72,
+  "phosphorus": 13.05,
+  "salt": 41.18,
+  "potassium": 28.97,
+  "magnesium": 0,
+  "iron": 0.37,
+  "zinc": 0.11,
+  "cholesterol": 9.4,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc44"
+  },
+  "name": "감자볶음",
+  "kcal": 11.56,
+  "carbs": 1.65,
+  "sugar": 0.1,
+  "fat": 0.51,
+  "protein": 0.27,
+  "calcium": 2.13,
+  "phosphorus": 6.66,
+  "salt": 43.99,
+  "potassium": 50.92,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc45"
+  },
+  "name": "김치볶음",
+  "kcal": 9.5,
+  "carbs": 1.09,
+  "sugar": 0.45,
+  "fat": 0.61,
+  "protein": 0.26,
+  "calcium": 5.81,
+  "phosphorus": 7.51,
+  "salt": 75.67,
+  "potassium": 38.35,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc46"
+  },
+  "name": "깻잎나물볶음",
+  "kcal": 10.62,
+  "carbs": 0.87,
+  "sugar": 0.01,
+  "fat": 0.82,
+  "protein": 0.4,
+  "calcium": 33.53,
+  "phosphorus": 8.63,
+  "salt": 52.32,
+  "potassium": 46.69,
+  "magnesium": 0,
+  "iron": 0.28,
+  "zinc": 0.07,
+  "cholesterol": 0.26,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc47"
+  },
+  "name": "느타리버섯볶음",
+  "kcal": 8.89,
+  "carbs": 0.95,
+  "sugar": 0.01,
+  "fat": 0.6,
+  "protein": 0.29,
+  "calcium": 1.44,
+  "phosphorus": 6.58,
+  "salt": 41.68,
+  "potassium": 35.36,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.1,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc48"
+  },
+  "name": "두부김치",
+  "kcal": 11.7,
+  "carbs": 0.55,
+  "sugar": 0,
+  "fat": 0.85,
+  "protein": 0.77,
+  "calcium": 6.14,
+  "phosphorus": 12.47,
+  "salt": 41.35,
+  "potassium": 29.62,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.13,
+  "cholesterol": 1.2,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc49"
+  },
+  "name": "머위나물볶음",
+  "kcal": 6.87,
+  "carbs": 0.51,
+  "sugar": 0,
+  "fat": 0.53,
+  "protein": 0.29,
+  "calcium": 6.74,
+  "phosphorus": 6.31,
+  "salt": 46.46,
+  "potassium": 35.3,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc4a"
+  },
+  "name": "양송이버섯볶음",
+  "kcal": 8.83,
+  "carbs": 0.7,
+  "sugar": 0,
+  "fat": 0.65,
+  "protein": 0.36,
+  "calcium": 2.2,
+  "phosphorus": 10.77,
+  "salt": 34.67,
+  "potassium": 57.09,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.09,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc4b"
+  },
+  "name": "표고버섯볶음",
+  "kcal": 9.57,
+  "carbs": 0.95,
+  "sugar": 0.1,
+  "fat": 0.49,
+  "protein": 0.27,
+  "calcium": 2.12,
+  "phosphorus": 4.48,
+  "salt": 37.57,
+  "potassium": 34.19,
+  "magnesium": 0,
+  "iron": 0.16,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc4c"
+  },
+  "name": "고추잡채",
+  "kcal": 13.21,
+  "carbs": 1.11,
+  "sugar": 0.42,
+  "fat": 0.64,
+  "protein": 0.64,
+  "calcium": 2.74,
+  "phosphorus": 10.95,
+  "salt": 42.52,
+  "potassium": 28.08,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.11,
+  "cholesterol": 2.54,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc4d"
+  },
+  "name": "호박볶음",
+  "kcal": 5.84,
+  "carbs": 0.62,
+  "sugar": 0,
+  "fat": 0.4,
+  "protein": 0.15,
+  "calcium": 2.07,
+  "phosphorus": 4.08,
+  "salt": 44.66,
+  "potassium": 27.01,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.03,
+  "cholesterol": 0.01,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc4e"
+  },
+  "name": "돼지고기볶음",
+  "kcal": 17.66,
+  "carbs": 0.77,
+  "sugar": 0.24,
+  "fat": 1.05,
+  "protein": 1.29,
+  "calcium": 1.64,
+  "phosphorus": 20.11,
+  "salt": 53.02,
+  "potassium": 22.9,
+  "magnesium": 0,
+  "iron": 0.2,
+  "zinc": 0.23,
+  "cholesterol": 4.2,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc4f"
+  },
+  "name": "돼지껍데기볶음",
+  "kcal": 23.08,
+  "carbs": 1.52,
+  "sugar": 1.06,
+  "fat": 1.28,
+  "protein": 1.49,
+  "calcium": 1.99,
+  "phosphorus": 4.81,
+  "salt": 50.62,
+  "potassium": 17.8,
+  "magnesium": 0,
+  "iron": 0.15,
+  "zinc": 0.08,
+  "cholesterol": 6.36,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc50"
+  },
+  "name": "소세지볶음",
+  "kcal": 23.8,
+  "carbs": 1.44,
+  "sugar": 0.29,
+  "fat": 1.66,
+  "protein": 0.85,
+  "calcium": 1.37,
+  "phosphorus": 13.02,
+  "salt": 70.45,
+  "potassium": 24.8,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.11,
+  "cholesterol": 2.81,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc51"
+  },
+  "name": "순대볶음",
+  "kcal": 14.49,
+  "carbs": 1.77,
+  "sugar": 0.36,
+  "fat": 0.64,
+  "protein": 0.44,
+  "calcium": 6.79,
+  "phosphorus": 6.65,
+  "salt": 34.49,
+  "potassium": 26.2,
+  "magnesium": 0,
+  "iron": 0.2,
+  "zinc": 0.11,
+  "cholesterol": 4.75,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc52"
+  },
+  "name": "오리불고기",
+  "kcal": 22.4,
+  "carbs": 0.98,
+  "sugar": 0.16,
+  "fat": 1.37,
+  "protein": 1.53,
+  "calcium": 2.64,
+  "phosphorus": 16.81,
+  "salt": 34.16,
+  "potassium": 40.19,
+  "magnesium": 0,
+  "iron": 0.23,
+  "zinc": 0.19,
+  "cholesterol": 4.99,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc53"
+  },
+  "name": "오삼불고기",
+  "kcal": 17.85,
+  "carbs": 1.07,
+  "sugar": 0.37,
+  "fat": 1.01,
+  "protein": 1.17,
+  "calcium": 3.9,
+  "phosphorus": 15.39,
+  "salt": 43.52,
+  "potassium": 31.75,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.14,
+  "cholesterol": 8.21,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc54"
+  },
+  "name": "떡볶이",
+  "kcal": 15.04,
+  "carbs": 2.94,
+  "sugar": 0.29,
+  "fat": 0.15,
+  "protein": 0.44,
+  "calcium": 3.6,
+  "phosphorus": 8.97,
+  "salt": 43.11,
+  "potassium": 12.57,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.06,
+  "cholesterol": 0.3,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc55"
+  },
+  "name": "라볶이",
+  "kcal": 13.3,
+  "carbs": 2.06,
+  "sugar": 0.32,
+  "fat": 0.48,
+  "protein": 0.4,
+  "calcium": 2.18,
+  "phosphorus": 4.68,
+  "salt": 41.81,
+  "potassium": 13.83,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.03,
+  "cholesterol": 0.35,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc56"
+  },
+  "name": "마파두부",
+  "kcal": 11.35,
+  "carbs": 0.55,
+  "sugar": 0.03,
+  "fat": 0.6,
+  "protein": 0.84,
+  "calcium": 7.67,
+  "phosphorus": 12.86,
+  "salt": 32.37,
+  "potassium": 16.64,
+  "magnesium": 0,
+  "iron": 0.15,
+  "zinc": 0.11,
+  "cholesterol": 0.96,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc57"
+  },
+  "name": "가자미조림",
+  "kcal": 10.04,
+  "carbs": 0.68,
+  "sugar": 0.2,
+  "fat": 0.23,
+  "protein": 1.36,
+  "calcium": 3.8,
+  "phosphorus": 13.93,
+  "salt": 54.04,
+  "potassium": 38.45,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.05,
+  "cholesterol": 5.5,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc58"
+  },
+  "name": "갈치조림",
+  "kcal": 9.94,
+  "carbs": 0.55,
+  "sugar": 0.05,
+  "fat": 0.39,
+  "protein": 1.07,
+  "calcium": 3.87,
+  "phosphorus": 12.97,
+  "salt": 46.38,
+  "potassium": 30.3,
+  "magnesium": 0.62,
+  "iron": 0.11,
+  "zinc": 0.06,
+  "cholesterol": 4.2,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc59"
+  },
+  "name": "고등어조림",
+  "kcal": 18.37,
+  "carbs": 0.44,
+  "sugar": 0.06,
+  "fat": 1.01,
+  "protein": 1.81,
+  "calcium": 5,
+  "phosphorus": 22.18,
+  "salt": 47.12,
+  "potassium": 41.34,
+  "magnesium": 0,
+  "iron": 0.21,
+  "zinc": 0.11,
+  "cholesterol": 6.81,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc5a"
+  },
+  "name": "꽁치조림",
+  "kcal": 18.67,
+  "carbs": 0.56,
+  "sugar": 0.09,
+  "fat": 1.11,
+  "protein": 1.51,
+  "calcium": 7.57,
+  "phosphorus": 19.64,
+  "salt": 45.29,
+  "potassium": 29.92,
+  "magnesium": 0,
+  "iron": 0.22,
+  "zinc": 0.08,
+  "cholesterol": 4.48,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc5b"
+  },
+  "name": "동태조림",
+  "kcal": 10.82,
+  "carbs": 0.67,
+  "sugar": 0.2,
+  "fat": 0.16,
+  "protein": 1.56,
+  "calcium": 5.95,
+  "phosphorus": 21.03,
+  "salt": 57.61,
+  "potassium": 39.31,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.06,
+  "cholesterol": 8.44,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc5c"
+  },
+  "name": "북어조림",
+  "kcal": 18.46,
+  "carbs": 1.57,
+  "sugar": 0.29,
+  "fat": 0.3,
+  "protein": 2.39,
+  "calcium": 9.71,
+  "phosphorus": 24.64,
+  "salt": 76.14,
+  "potassium": 48.79,
+  "magnesium": 0.81,
+  "iron": 0.18,
+  "zinc": 0.06,
+  "cholesterol": 10.39,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc5d"
+  },
+  "name": "조기조림",
+  "kcal": 12.61,
+  "carbs": 0.47,
+  "sugar": 0.05,
+  "fat": 0.54,
+  "protein": 1.38,
+  "calcium": 3.62,
+  "phosphorus": 14.78,
+  "salt": 56.1,
+  "potassium": 40.76,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.08,
+  "cholesterol": 5.89,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc5e"
+  },
+  "name": "코다리조림",
+  "kcal": 14.67,
+  "carbs": 0.46,
+  "sugar": 0.05,
+  "fat": 0.56,
+  "protein": 1.85,
+  "calcium": 4.24,
+  "phosphorus": 19.8,
+  "salt": 43.32,
+  "potassium": 32.48,
+  "magnesium": 0.39,
+  "iron": 0.08,
+  "zinc": 0.05,
+  "cholesterol": 7.76,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc5f"
+  },
+  "name": "달걀장조림",
+  "kcal": 13.37,
+  "carbs": 1,
+  "sugar": 0.32,
+  "fat": 0.64,
+  "protein": 0.88,
+  "calcium": 4.55,
+  "phosphorus": 13.26,
+  "salt": 63.66,
+  "potassium": 26.74,
+  "magnesium": 1.56,
+  "iron": 0.14,
+  "zinc": 0.11,
+  "cholesterol": 30.88,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc60"
+  },
+  "name": "메추리알장조림",
+  "kcal": 20.51,
+  "carbs": 0.74,
+  "sugar": 0.25,
+  "fat": 1.37,
+  "protein": 1.21,
+  "calcium": 6.52,
+  "phosphorus": 19.07,
+  "salt": 75.89,
+  "potassium": 27.92,
+  "magnesium": 0.47,
+  "iron": 0.19,
+  "zinc": 0.17,
+  "cholesterol": 53.06,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc61"
+  },
+  "name": "돼지고기메추리알장조림",
+  "kcal": 12.59,
+  "carbs": 0.63,
+  "sugar": 0.17,
+  "fat": 0.42,
+  "protein": 1.52,
+  "calcium": 2.26,
+  "phosphorus": 15.74,
+  "salt": 111.16,
+  "potassium": 30.69,
+  "magnesium": 0,
+  "iron": 0.15,
+  "zinc": 0.17,
+  "cholesterol": 15.46,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc62"
+  },
+  "name": "소고기메추리알장조림",
+  "kcal": 12.24,
+  "carbs": 0.69,
+  "sugar": 0.2,
+  "fat": 0.44,
+  "protein": 1.33,
+  "calcium": 3.44,
+  "phosphorus": 15.58,
+  "salt": 121.66,
+  "potassium": 33.91,
+  "magnesium": 0,
+  "iron": 0.36,
+  "zinc": 0.17,
+  "cholesterol": 14.03,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc63"
+  },
+  "name": "고추조림",
+  "kcal": 10.59,
+  "carbs": 1.48,
+  "sugar": 0.3,
+  "fat": 0.42,
+  "protein": 0.29,
+  "calcium": 3.17,
+  "phosphorus": 5.22,
+  "salt": 80.25,
+  "potassium": 18.54,
+  "magnesium": 1.87,
+  "iron": 0.09,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc64"
+  },
+  "name": "감자조림",
+  "kcal": 7.8,
+  "carbs": 1.68,
+  "sugar": 0.16,
+  "fat": 0.04,
+  "protein": 0.31,
+  "calcium": 1.95,
+  "phosphorus": 7.19,
+  "salt": 53.18,
+  "potassium": 44.5,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.05,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc65"
+  },
+  "name": "우엉조림",
+  "kcal": 22.83,
+  "carbs": 5.17,
+  "sugar": 2.54,
+  "fat": 0.11,
+  "protein": 0.37,
+  "calcium": 5.21,
+  "phosphorus": 8.07,
+  "salt": 80.76,
+  "potassium": 35.62,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.08,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc66"
+  },
+  "name": "알감자조림",
+  "kcal": 11.25,
+  "carbs": 2.1,
+  "sugar": 0.31,
+  "fat": 0.25,
+  "protein": 0.28,
+  "calcium": 2.62,
+  "phosphorus": 8.19,
+  "salt": 48.35,
+  "potassium": 42.9,
+  "magnesium": 0,
+  "iron": 0.16,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc67"
+  },
+  "name": "(검은)콩조림",
+  "kcal": 28.41,
+  "carbs": 3.49,
+  "sugar": 1.46,
+  "fat": 1.04,
+  "protein": 1.93,
+  "calcium": 12.4,
+  "phosphorus": 32.2,
+  "salt": 51.42,
+  "potassium": 16.7,
+  "magnesium": 0,
+  "iron": 0.44,
+  "zinc": 0.15,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc68"
+  },
+  "name": "콩조림",
+  "kcal": 29.61,
+  "carbs": 3.88,
+  "sugar": 1.46,
+  "fat": 0.97,
+  "protein": 1.78,
+  "calcium": 7.19,
+  "phosphorus": 4.94,
+  "salt": 117.35,
+  "potassium": 64.18,
+  "magnesium": 0,
+  "iron": 0.43,
+  "zinc": 0.21,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc69"
+  },
+  "name": "두부고추장조림",
+  "kcal": 13.43,
+  "carbs": 0.81,
+  "sugar": 0.38,
+  "fat": 0.8,
+  "protein": 1.03,
+  "calcium": 13.98,
+  "phosphorus": 16.33,
+  "salt": 39.85,
+  "potassium": 15.94,
+  "magnesium": 0,
+  "iron": 0.19,
+  "zinc": 0.12,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc6a"
+  },
+  "name": "땅콩조림",
+  "kcal": 40.21,
+  "carbs": 3.27,
+  "sugar": 1.64,
+  "fat": 2.56,
+  "protein": 1.46,
+  "calcium": 7.32,
+  "phosphorus": 22.72,
+  "salt": 77.12,
+  "potassium": 45.48,
+  "magnesium": 0,
+  "iron": 0.29,
+  "zinc": 0.36,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc6b"
+  },
+  "name": "미꾸라지튀김",
+  "kcal": 38.21,
+  "carbs": 3.06,
+  "sugar": 0,
+  "fat": 2.25,
+  "protein": 1.27,
+  "calcium": 34.2,
+  "phosphorus": 25.41,
+  "salt": 32.33,
+  "potassium": 19.26,
+  "magnesium": 1.12,
+  "iron": 0.44,
+  "zinc": 0.16,
+  "cholesterol": 12.13,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc6c"
+  },
+  "name": "새우튀김",
+  "kcal": 31.13,
+  "carbs": 2.18,
+  "sugar": 0,
+  "fat": 1.96,
+  "protein": 1.18,
+  "calcium": 3.99,
+  "phosphorus": 13.07,
+  "salt": 55.39,
+  "potassium": 18.34,
+  "magnesium": 0.59,
+  "iron": 0.11,
+  "zinc": 0.09,
+  "cholesterol": 16.59,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc6d"
+  },
+  "name": "생선가스",
+  "kcal": 32.31,
+  "carbs": 2.87,
+  "sugar": 0,
+  "fat": 1.85,
+  "protein": 1.23,
+  "calcium": 1.71,
+  "phosphorus": 15.18,
+  "salt": 40.86,
+  "potassium": 11.5,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.07,
+  "cholesterol": 8.82,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc6e"
+  },
+  "name": "쥐포튀김",
+  "kcal": 35.33,
+  "carbs": 3.8,
+  "sugar": 0,
+  "fat": 1.65,
+  "protein": 1.12,
+  "calcium": 2.69,
+  "phosphorus": 12.75,
+  "salt": 42.38,
+  "potassium": 14.53,
+  "magnesium": 1.37,
+  "iron": 0.1,
+  "zinc": 0.05,
+  "cholesterol": 7.56,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc6f"
+  },
+  "name": "오징어튀김",
+  "kcal": 30.84,
+  "carbs": 2.6,
+  "sugar": 0,
+  "fat": 1.65,
+  "protein": 1.35,
+  "calcium": 2.2,
+  "phosphorus": 19.69,
+  "salt": 36.16,
+  "potassium": 18.69,
+  "magnesium": 2.22,
+  "iron": 0.07,
+  "zinc": 0.1,
+  "cholesterol": 13.3,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc70"
+  },
+  "name": "닭강정",
+  "kcal": 32.33,
+  "carbs": 2.42,
+  "sugar": 0.17,
+  "fat": 1.56,
+  "protein": 1.83,
+  "calcium": 1.9,
+  "phosphorus": 17.91,
+  "salt": 41.31,
+  "potassium": 10.42,
+  "magnesium": 0.57,
+  "iron": 0.14,
+  "zinc": 0.2,
+  "cholesterol": 10.75,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc71"
+  },
+  "name": "닭튀김",
+  "kcal": 30.33,
+  "carbs": 1.53,
+  "sugar": 0,
+  "fat": 1.74,
+  "protein": 1.82,
+  "calcium": 3.16,
+  "phosphorus": 17.77,
+  "salt": 38.34,
+  "potassium": 17.08,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.2,
+  "cholesterol": 12.69,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc72"
+  },
+  "name": "돈가스",
+  "kcal": 31.03,
+  "carbs": 1.83,
+  "sugar": 0,
+  "fat": 1.96,
+  "protein": 1.39,
+  "calcium": 1.57,
+  "phosphorus": 13.24,
+  "salt": 27.85,
+  "potassium": 34.29,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.15,
+  "cholesterol": 6.92,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc73"
+  },
+  "name": "모래집튀김",
+  "kcal": 30.49,
+  "carbs": 2.12,
+  "sugar": 0,
+  "fat": 1.73,
+  "protein": 1.49,
+  "calcium": 4.82,
+  "phosphorus": 16.51,
+  "salt": 19.8,
+  "potassium": 30.6,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.06,
+  "cholesterol": 9.18,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc74"
+  },
+  "name": "양념치킨",
+  "kcal": 28.38,
+  "carbs": 1.94,
+  "sugar": 0.62,
+  "fat": 1.56,
+  "protein": 1.52,
+  "calcium": 2.55,
+  "phosphorus": 15.78,
+  "salt": 38.89,
+  "potassium": 19.06,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.18,
+  "cholesterol": 12.95,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc75"
+  },
+  "name": "치즈돈가스",
+  "kcal": 30.34,
+  "carbs": 1.82,
+  "sugar": 0,
+  "fat": 1.85,
+  "protein": 1.44,
+  "calcium": 2.91,
+  "phosphorus": 13.77,
+  "salt": 34.2,
+  "potassium": 22.8,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.14,
+  "cholesterol": 5.86,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc76"
+  },
+  "name": "치킨가스",
+  "kcal": 29.1,
+  "carbs": 2.56,
+  "sugar": 0,
+  "fat": 1.43,
+  "protein": 1.55,
+  "calcium": 1.63,
+  "phosphorus": 9.35,
+  "salt": 37.44,
+  "potassium": 19.21,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.1,
+  "cholesterol": 5.67,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc77"
+  },
+  "name": "탕수육",
+  "kcal": 22.72,
+  "carbs": 2.82,
+  "sugar": 0.1,
+  "fat": 0.83,
+  "protein": 0.85,
+  "calcium": 1.82,
+  "phosphorus": 9.7,
+  "salt": 20.16,
+  "potassium": 23.45,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.08,
+  "cholesterol": 3.82,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc78"
+  },
+  "name": "깐풍기",
+  "kcal": 29.25,
+  "carbs": 2.17,
+  "sugar": 0.7,
+  "fat": 1.67,
+  "protein": 1.39,
+  "calcium": 2.05,
+  "phosphorus": 9.24,
+  "salt": 31.46,
+  "potassium": 26.18,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.1,
+  "cholesterol": 8.65,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc79"
+  },
+  "name": "감자튀김",
+  "kcal": 30.81,
+  "carbs": 3.34,
+  "sugar": 0,
+  "fat": 1.72,
+  "protein": 0.42,
+  "calcium": 0.69,
+  "phosphorus": 6.37,
+  "salt": 24.95,
+  "potassium": 22.95,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc7a"
+  },
+  "name": "고구마맛탕",
+  "kcal": 24.55,
+  "carbs": 4.51,
+  "sugar": 0.07,
+  "fat": 0.68,
+  "protein": 0.16,
+  "calcium": 5.42,
+  "phosphorus": 4.72,
+  "salt": 10.67,
+  "potassium": 29.36,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc7b"
+  },
+  "name": "고구마튀김",
+  "kcal": 24.16,
+  "carbs": 3.41,
+  "sugar": 0,
+  "fat": 1.08,
+  "protein": 0.32,
+  "calcium": 2.07,
+  "phosphorus": 7.4,
+  "salt": 15.06,
+  "potassium": 29.86,
+  "magnesium": 1.81,
+  "iron": 0.06,
+  "zinc": 0.03,
+  "cholesterol": 1.9,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc7c"
+  },
+  "name": "고추튀김",
+  "kcal": 19.84,
+  "carbs": 1.27,
+  "sugar": 0,
+  "fat": 1.36,
+  "protein": 0.65,
+  "calcium": 2.34,
+  "phosphorus": 10,
+  "salt": 26.06,
+  "potassium": 14.77,
+  "magnesium": 1.29,
+  "iron": 0.09,
+  "zinc": 0.07,
+  "cholesterol": 19,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc7d"
+  },
+  "name": "김말이튀김",
+  "kcal": 24.06,
+  "carbs": 3.25,
+  "sugar": 0,
+  "fat": 1.24,
+  "protein": 0.23,
+  "calcium": 2.89,
+  "phosphorus": 6.17,
+  "salt": 39.3,
+  "potassium": 12.36,
+  "magnesium": 0.06,
+  "iron": 0.13,
+  "zinc": 0.02,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc7e"
+  },
+  "name": "채소튀김",
+  "kcal": 31.2,
+  "carbs": 3.64,
+  "sugar": 0,
+  "fat": 1.85,
+  "protein": 0.3,
+  "calcium": 3.33,
+  "phosphorus": 9.2,
+  "salt": 27.73,
+  "potassium": 27.42,
+  "magnesium": 1.13,
+  "iron": 0.05,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc7f"
+  },
+  "name": "노각무침",
+  "kcal": 5.42,
+  "carbs": 1.1,
+  "sugar": 0.34,
+  "fat": 0.14,
+  "protein": 0.21,
+  "calcium": 2.59,
+  "phosphorus": 5.94,
+  "salt": 54.81,
+  "potassium": 38.21,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.05,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc80"
+  },
+  "name": "단무지무침",
+  "kcal": 3.84,
+  "carbs": 0.64,
+  "sugar": 0.19,
+  "fat": 0.18,
+  "protein": 0.09,
+  "calcium": 3.47,
+  "phosphorus": 2.66,
+  "salt": 89.57,
+  "potassium": 17.53,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc81"
+  },
+  "name": "달래나물무침",
+  "kcal": 8.85,
+  "carbs": 1.68,
+  "sugar": 0.9,
+  "fat": 0.22,
+  "protein": 0.32,
+  "calcium": 7.98,
+  "phosphorus": 6.76,
+  "salt": 56.87,
+  "potassium": 36.94,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.08,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc82"
+  },
+  "name": "더덕무침",
+  "kcal": 14.73,
+  "carbs": 3.23,
+  "sugar": 2.1,
+  "fat": 0.18,
+  "protein": 0.33,
+  "calcium": 2.39,
+  "phosphorus": 8.65,
+  "salt": 80.24,
+  "potassium": 19.09,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.02,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc83"
+  },
+  "name": "도라지생채",
+  "kcal": 11.02,
+  "carbs": 2.57,
+  "sugar": 0.2,
+  "fat": 0.11,
+  "protein": 0.28,
+  "calcium": 5,
+  "phosphorus": 10.1,
+  "salt": 52.61,
+  "potassium": 48.39,
+  "magnesium": 0,
+  "iron": 0.43,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc84"
+  },
+  "name": "도토리묵",
+  "kcal": 4.3,
+  "carbs": 0.99,
+  "sugar": 0.14,
+  "fat": 0.03,
+  "protein": 0.04,
+  "calcium": 0.88,
+  "phosphorus": 2.85,
+  "salt": 11.65,
+  "potassium": 4.18,
+  "magnesium": 0.12,
+  "iron": 0.05,
+  "zinc": 0.01,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc85"
+  },
+  "name": "마늘쫑무침",
+  "kcal": 12.71,
+  "carbs": 3.12,
+  "sugar": 1.09,
+  "fat": 0.09,
+  "protein": 0.33,
+  "calcium": 3.08,
+  "phosphorus": 7.9,
+  "salt": 141.15,
+  "potassium": 31.87,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.13,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc86"
+  },
+  "name": "무생채",
+  "kcal": 4.91,
+  "carbs": 1.07,
+  "sugar": 0.3,
+  "fat": 0.09,
+  "protein": 0.18,
+  "calcium": 4.93,
+  "phosphorus": 4.64,
+  "salt": 55.48,
+  "potassium": 31.9,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.05,
+  "cholesterol": 0.11,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc87"
+  },
+  "name": "무말랭이",
+  "kcal": 13.3,
+  "carbs": 3.21,
+  "sugar": 0.34,
+  "fat": 0.11,
+  "protein": 0.45,
+  "calcium": 11.94,
+  "phosphorus": 11.75,
+  "salt": 126.26,
+  "potassium": 84.23,
+  "magnesium": 0,
+  "iron": 0.32,
+  "zinc": 0.06,
+  "cholesterol": 0.01,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc88"
+  },
+  "name": "오이생채",
+  "kcal": 4.67,
+  "carbs": 0.93,
+  "sugar": 0.3,
+  "fat": 0.1,
+  "protein": 0.18,
+  "calcium": 2.96,
+  "phosphorus": 6.69,
+  "salt": 53.86,
+  "potassium": 29.43,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc89"
+  },
+  "name": "파무침",
+  "kcal": 8.29,
+  "carbs": 1.3,
+  "sugar": 0.56,
+  "fat": 0.36,
+  "protein": 0.25,
+  "calcium": 9.73,
+  "phosphorus": 5.43,
+  "salt": 46.26,
+  "potassium": 25.15,
+  "magnesium": 0,
+  "iron": 0.16,
+  "zinc": 0.03,
+  "cholesterol": 0.67,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc8a"
+  },
+  "name": "상추겉절이",
+  "kcal": 6.53,
+  "carbs": 0.9,
+  "sugar": 0.1,
+  "fat": 0.31,
+  "protein": 0.28,
+  "calcium": 6.84,
+  "phosphorus": 7.34,
+  "salt": 47.62,
+  "potassium": 42.53,
+  "magnesium": 0,
+  "iron": 0.16,
+  "zinc": 0.06,
+  "cholesterol": 0.27,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc8b"
+  },
+  "name": "쑥갓나물무침",
+  "kcal": 6.32,
+  "carbs": 0.59,
+  "sugar": 0,
+  "fat": 0.43,
+  "protein": 0.37,
+  "calcium": 4.61,
+  "phosphorus": 5.84,
+  "salt": 46.67,
+  "potassium": 30.25,
+  "magnesium": 0,
+  "iron": 0.19,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc8c"
+  },
+  "name": "청포묵무침",
+  "kcal": 6.3,
+  "carbs": 0.79,
+  "sugar": 0.55,
+  "fat": 0.17,
+  "protein": 0.12,
+  "calcium": 2.68,
+  "phosphorus": 3.98,
+  "salt": 30.27,
+  "potassium": 13.36,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.03,
+  "cholesterol": 0.09,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc8d"
+  },
+  "name": "해파리냉채",
+  "kcal": 5.82,
+  "carbs": 0.92,
+  "sugar": 0.5,
+  "fat": 0.1,
+  "protein": 0.44,
+  "calcium": 4.62,
+  "phosphorus": 14.69,
+  "salt": 32.68,
+  "potassium": 24.04,
+  "magnesium": 0,
+  "iron": 0.36,
+  "zinc": 0.07,
+  "cholesterol": 1.18,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc8e"
+  },
+  "name": "가지나물",
+  "kcal": 4.37,
+  "carbs": 0.61,
+  "sugar": 0,
+  "fat": 0.25,
+  "protein": 0.15,
+  "calcium": 2.26,
+  "phosphorus": 4.06,
+  "salt": 31.83,
+  "potassium": 25.06,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc8f"
+  },
+  "name": "고사리나물",
+  "kcal": 8.7,
+  "carbs": 0.76,
+  "sugar": 0,
+  "fat": 0.65,
+  "protein": 0.39,
+  "calcium": 4.07,
+  "phosphorus": 6.59,
+  "salt": 50.31,
+  "potassium": 60.48,
+  "magnesium": 0,
+  "iron": 0.36,
+  "zinc": 0.19,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc90"
+  },
+  "name": "도라지나물",
+  "kcal": 10.94,
+  "carbs": 1.07,
+  "sugar": 0,
+  "fat": 0.76,
+  "protein": 0.13,
+  "calcium": 3.02,
+  "phosphorus": 4.81,
+  "salt": 51.33,
+  "potassium": 20.99,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.02,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc91"
+  },
+  "name": "무나물",
+  "kcal": 6.92,
+  "carbs": 0.61,
+  "sugar": 0,
+  "fat": 0.51,
+  "protein": 0.12,
+  "calcium": 3.61,
+  "phosphorus": 3.31,
+  "salt": 58.7,
+  "potassium": 28.69,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc92"
+  },
+  "name": "미나리나물",
+  "kcal": 5.67,
+  "carbs": 0.51,
+  "sugar": 0,
+  "fat": 0.43,
+  "protein": 0.2,
+  "calcium": 3.69,
+  "phosphorus": 5.76,
+  "salt": 33.1,
+  "potassium": 47.81,
+  "magnesium": 0,
+  "iron": 0.23,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc93"
+  },
+  "name": "숙주나물",
+  "kcal": 3.9,
+  "carbs": 0.31,
+  "sugar": 0,
+  "fat": 0.27,
+  "protein": 0.26,
+  "calcium": 2.02,
+  "phosphorus": 4.17,
+  "salt": 37.35,
+  "potassium": 17.09,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc94"
+  },
+  "name": "시금치나물",
+  "kcal": 7.5,
+  "carbs": 0.76,
+  "sugar": 0,
+  "fat": 0.47,
+  "protein": 0.41,
+  "calcium": 7.52,
+  "phosphorus": 4.91,
+  "salt": 43.45,
+  "potassium": 62.25,
+  "magnesium": 0,
+  "iron": 0.35,
+  "zinc": 0.08,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc95"
+  },
+  "name": "취나물",
+  "kcal": 14.59,
+  "carbs": 0.69,
+  "sugar": 0,
+  "fat": 1.34,
+  "protein": 0.32,
+  "calcium": 11.68,
+  "phosphorus": 6.01,
+  "salt": 57.73,
+  "potassium": 44.6,
+  "magnesium": 0,
+  "iron": 0.22,
+  "zinc": 0.01,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc96"
+  },
+  "name": "콩나물",
+  "kcal": 4.83,
+  "carbs": 0.23,
+  "sugar": 0,
+  "fat": 0.4,
+  "protein": 0.33,
+  "calcium": 2.56,
+  "phosphorus": 4.32,
+  "salt": 40.7,
+  "potassium": 15.67,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.05,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc97"
+  },
+  "name": "고구마줄기나물",
+  "kcal": 6.09,
+  "carbs": 0.59,
+  "sugar": 0,
+  "fat": 0.45,
+  "protein": 0.13,
+  "calcium": 5.64,
+  "phosphorus": 3.93,
+  "salt": 51.14,
+  "potassium": 14.75,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc98"
+  },
+  "name": "우거지나물무침",
+  "kcal": 8.41,
+  "carbs": 0.69,
+  "sugar": 0.1,
+  "fat": 0.58,
+  "protein": 0.34,
+  "calcium": 34.2,
+  "phosphorus": 7.25,
+  "salt": 51.64,
+  "potassium": 6.27,
+  "magnesium": 0,
+  "iron": 1.46,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc99"
+  },
+  "name": "골뱅이무침",
+  "kcal": 10.73,
+  "carbs": 1.56,
+  "sugar": 0.61,
+  "fat": 0.23,
+  "protein": 0.79,
+  "calcium": 4.05,
+  "phosphorus": 8.98,
+  "salt": 51.59,
+  "potassium": 34.64,
+  "magnesium": 0.49,
+  "iron": 0.14,
+  "zinc": 0.09,
+  "cholesterol": 4.56,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc9a"
+  },
+  "name": "김무침",
+  "kcal": 27,
+  "carbs": 4.06,
+  "sugar": 2.31,
+  "fat": 1.37,
+  "protein": 1.57,
+  "calcium": 15.15,
+  "phosphorus": 31.71,
+  "salt": 166.21,
+  "potassium": 137.86,
+  "magnesium": 0,
+  "iron": 0.72,
+  "zinc": 0.19,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc9b"
+  },
+  "name": "미역초무침",
+  "kcal": 4.99,
+  "carbs": 1.14,
+  "sugar": 0.8,
+  "fat": 0.11,
+  "protein": 0.21,
+  "calcium": 9.45,
+  "phosphorus": 5.76,
+  "salt": 57.16,
+  "potassium": 47.35,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.02,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc9c"
+  },
+  "name": "북어채무침",
+  "kcal": 22.14,
+  "carbs": 2.09,
+  "sugar": 1.2,
+  "fat": 0.39,
+  "protein": 2.49,
+  "calcium": 16.34,
+  "phosphorus": 49.66,
+  "salt": 69.9,
+  "potassium": 52.18,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.06,
+  "cholesterol": 7.24,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc9d"
+  },
+  "name": "회무침",
+  "kcal": 10.39,
+  "carbs": 1.43,
+  "sugar": 0.88,
+  "fat": 0.14,
+  "protein": 0.91,
+  "calcium": 6.67,
+  "phosphorus": 10.48,
+  "salt": 41.77,
+  "potassium": 31.86,
+  "magnesium": 0,
+  "iron": 0.15,
+  "zinc": 0.06,
+  "cholesterol": 2.05,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc9e"
+  },
+  "name": "쥐치채",
+  "kcal": 26.7,
+  "carbs": 5.09,
+  "sugar": 3.3,
+  "fat": 0.1,
+  "protein": 1.39,
+  "calcium": 7.14,
+  "phosphorus": 15.86,
+  "salt": 144.72,
+  "potassium": 39.26,
+  "magnesium": 0,
+  "iron": 0.15,
+  "zinc": 0.06,
+  "cholesterol": 2.96,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cc9f"
+  },
+  "name": "파래무침",
+  "kcal": 10.53,
+  "carbs": 1.81,
+  "sugar": 0.3,
+  "fat": 0.23,
+  "protein": 0.78,
+  "calcium": 21.51,
+  "phosphorus": 6.35,
+  "salt": 84.02,
+  "potassium": 24.83,
+  "magnesium": 0,
+  "iron": 0.57,
+  "zinc": 0.05,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cca0"
+  },
+  "name": "홍어무침",
+  "kcal": 9.66,
+  "carbs": 1.24,
+  "sugar": 0.47,
+  "fat": 0.11,
+  "protein": 1.08,
+  "calcium": 16.87,
+  "phosphorus": 16.03,
+  "salt": 40.87,
+  "potassium": 42.13,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.06,
+  "cholesterol": 3.96,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cca1"
+  },
+  "name": "골뱅이국수무침",
+  "kcal": 11.15,
+  "carbs": 1.72,
+  "sugar": 0,
+  "fat": 0.3,
+  "protein": 0.46,
+  "calcium": 4.24,
+  "phosphorus": 6.58,
+  "salt": 39.64,
+  "potassium": 21.42,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.05,
+  "cholesterol": 1.74,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cca2"
+  },
+  "name": "오징어무침",
+  "kcal": 12.48,
+  "carbs": 0.68,
+  "sugar": 0,
+  "fat": 0.21,
+  "protein": 1.93,
+  "calcium": 3.93,
+  "phosphorus": 27.83,
+  "salt": 34.12,
+  "potassium": 33.01,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.17,
+  "cholesterol": 21.55,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cca3"
+  },
+  "name": "잡채",
+  "kcal": 13.25,
+  "carbs": 2.5,
+  "sugar": 0.2,
+  "fat": 0.31,
+  "protein": 0.17,
+  "calcium": 3.34,
+  "phosphorus": 3.6,
+  "salt": 44.32,
+  "potassium": 19.61,
+  "magnesium": 0,
+  "iron": 0.19,
+  "zinc": 0.03,
+  "cholesterol": 0.95,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cca4"
+  },
+  "name": "탕평채",
+  "kcal": 10.12,
+  "carbs": 1.02,
+  "sugar": 0.7,
+  "fat": 0.31,
+  "protein": 0.35,
+  "calcium": 3.88,
+  "phosphorus": 9,
+  "salt": 24.74,
+  "potassium": 27,
+  "magnesium": 0.63,
+  "iron": 0.12,
+  "zinc": 0.08,
+  "cholesterol": 0.49,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cca5"
+  },
+  "name": "갓김치",
+  "kcal": 5.53,
+  "carbs": 1.04,
+  "sugar": 0.08,
+  "fat": 0.14,
+  "protein": 0.4,
+  "calcium": 16.64,
+  "phosphorus": 6.12,
+  "salt": 89.55,
+  "potassium": 44.56,
+  "magnesium": 0,
+  "iron": 0.26,
+  "zinc": 0.1,
+  "cholesterol": 0.7,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cca6"
+  },
+  "name": "고들빼기",
+  "kcal": 11.08,
+  "carbs": 2.4,
+  "sugar": 0,
+  "fat": 0.11,
+  "protein": 0.44,
+  "calcium": 7.48,
+  "phosphorus": 8.92,
+  "salt": 146.75,
+  "potassium": 35.57,
+  "magnesium": 0,
+  "iron": 0.36,
+  "zinc": 0.07,
+  "cholesterol": 0.11,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cca7"
+  },
+  "name": "깍두기",
+  "kcal": 3.6,
+  "carbs": 0.79,
+  "sugar": 0.01,
+  "fat": 0.05,
+  "protein": 0.2,
+  "calcium": 3.83,
+  "phosphorus": 3.07,
+  "salt": 67.78,
+  "potassium": 29.61,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.03,
+  "cholesterol": 0.81,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cca8"
+  },
+  "name": "깻잎김치",
+  "kcal": 8.3,
+  "carbs": 1.55,
+  "sugar": 0.2,
+  "fat": 0.21,
+  "protein": 0.41,
+  "calcium": 8.8,
+  "phosphorus": 6.23,
+  "salt": 127.18,
+  "potassium": 50.14,
+  "magnesium": 0,
+  "iron": 0.2,
+  "zinc": 0.08,
+  "cholesterol": 1.98,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cca9"
+  },
+  "name": "나박김치",
+  "kcal": 1.48,
+  "carbs": 0.23,
+  "sugar": 0,
+  "fat": 0.04,
+  "protein": 0.06,
+  "calcium": 1.25,
+  "phosphorus": 1.16,
+  "salt": 50.95,
+  "potassium": 7.78,
+  "magnesium": 0,
+  "iron": 0.04,
+  "zinc": 0.01,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccaa"
+  },
+  "name": "동치미",
+  "kcal": 1.44,
+  "carbs": 0.36,
+  "sugar": 0,
+  "fat": 0.02,
+  "protein": 0.07,
+  "calcium": 1.08,
+  "phosphorus": 1.18,
+  "salt": 57.84,
+  "potassium": 10.96,
+  "magnesium": 0,
+  "iron": 0.03,
+  "zinc": 0.01,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccab"
+  },
+  "name": "배추겉절이",
+  "kcal": 4.25,
+  "carbs": 0.9,
+  "sugar": 0.2,
+  "fat": 0.1,
+  "protein": 0.19,
+  "calcium": 4.37,
+  "phosphorus": 4.63,
+  "salt": 65.08,
+  "potassium": 36.47,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.06,
+  "cholesterol": 0.27,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccac"
+  },
+  "name": "배추김치",
+  "kcal": 3.69,
+  "carbs": 0.83,
+  "sugar": 0.1,
+  "fat": 0.06,
+  "protein": 0.23,
+  "calcium": 7.17,
+  "phosphorus": 4.85,
+  "salt": 61.91,
+  "potassium": 41.43,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.06,
+  "cholesterol": 0.68,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccad"
+  },
+  "name": "백김치",
+  "kcal": 3.96,
+  "carbs": 0.88,
+  "sugar": 0,
+  "fat": 0.05,
+  "protein": 0.16,
+  "calcium": 4.58,
+  "phosphorus": 3.64,
+  "salt": 42.34,
+  "potassium": 30.68,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.05,
+  "cholesterol": 0.01,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccae"
+  },
+  "name": "부추김치",
+  "kcal": 6.58,
+  "carbs": 1.26,
+  "sugar": 0.7,
+  "fat": 0.11,
+  "protein": 0.38,
+  "calcium": 2.79,
+  "phosphorus": 3.05,
+  "salt": 79.88,
+  "potassium": 45.73,
+  "magnesium": 0,
+  "iron": 0.26,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccaf"
+  },
+  "name": "열무김치",
+  "kcal": 3.26,
+  "carbs": 0.63,
+  "sugar": 0.24,
+  "fat": 0.07,
+  "protein": 0.27,
+  "calcium": 12.91,
+  "phosphorus": 5.71,
+  "salt": 61.67,
+  "potassium": 82.37,
+  "magnesium": 0,
+  "iron": 0.28,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccb0"
+  },
+  "name": "열무얼갈이김치",
+  "kcal": 3.31,
+  "carbs": 0.61,
+  "sugar": 0,
+  "fat": 0.08,
+  "protein": 0.25,
+  "calcium": 9.58,
+  "phosphorus": 6.63,
+  "salt": 68.84,
+  "potassium": 35.4,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.04,
+  "cholesterol": 0.84,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccb1"
+  },
+  "name": "오이소박이",
+  "kcal": 3.33,
+  "carbs": 0.59,
+  "sugar": 0.24,
+  "fat": 0.11,
+  "protein": 0.19,
+  "calcium": 4.47,
+  "phosphorus": 7.91,
+  "salt": 55.24,
+  "potassium": 36.98,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.04,
+  "cholesterol": 0.29,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccb2"
+  },
+  "name": "총각김치",
+  "kcal": 3.51,
+  "carbs": 0.69,
+  "sugar": 0,
+  "fat": 0.07,
+  "protein": 0.21,
+  "calcium": 10.04,
+  "phosphorus": 5.13,
+  "salt": 69.43,
+  "potassium": 33.62,
+  "magnesium": 0,
+  "iron": 0.18,
+  "zinc": 0.04,
+  "cholesterol": 0.89,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccb3"
+  },
+  "name": "파김치",
+  "kcal": 5.6,
+  "carbs": 1.09,
+  "sugar": 0.2,
+  "fat": 0.14,
+  "protein": 0.31,
+  "calcium": 9.33,
+  "phosphorus": 4.07,
+  "salt": 79.17,
+  "potassium": 35.82,
+  "magnesium": 0,
+  "iron": 0.16,
+  "zinc": 0.07,
+  "cholesterol": 0.94,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccb4"
+  },
+  "name": "간장게장",
+  "kcal": 11.71,
+  "carbs": 0.56,
+  "sugar": 0.01,
+  "fat": 0.08,
+  "protein": 1.31,
+  "calcium": 10.68,
+  "phosphorus": 18.34,
+  "salt": 123.02,
+  "potassium": 45.51,
+  "magnesium": 0,
+  "iron": 0.3,
+  "zinc": 0.34,
+  "cholesterol": 8.93,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccb5"
+  },
+  "name": "마늘쫑장아찌",
+  "kcal": 5.65,
+  "carbs": 1.24,
+  "sugar": 0.47,
+  "fat": 0.03,
+  "protein": 0.21,
+  "calcium": 1.68,
+  "phosphorus": 4.73,
+  "salt": 155.72,
+  "potassium": 21.14,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccb6"
+  },
+  "name": "고추장아찌",
+  "kcal": 7.45,
+  "carbs": 1.39,
+  "sugar": 1,
+  "fat": 0.03,
+  "protein": 0.27,
+  "calcium": 1.58,
+  "phosphorus": 5.55,
+  "salt": 262.43,
+  "potassium": 27.78,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.05,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccb7"
+  },
+  "name": "깻잎장아찌",
+  "kcal": 11.21,
+  "carbs": 2.62,
+  "sugar": 0.93,
+  "fat": 0.12,
+  "protein": 0.7,
+  "calcium": 28.06,
+  "phosphorus": 13.49,
+  "salt": 189.58,
+  "potassium": 73.6,
+  "magnesium": 0,
+  "iron": 0.34,
+  "zinc": 0.14,
+  "cholesterol": 0.21,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccb8"
+  },
+  "name": "마늘장아찌",
+  "kcal": 5.35,
+  "carbs": 1.02,
+  "sugar": 0.1,
+  "fat": 0.01,
+  "protein": 0.26,
+  "calcium": 0.58,
+  "phosphorus": 4.93,
+  "salt": 160.58,
+  "potassium": 21.42,
+  "magnesium": 0,
+  "iron": 0.04,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccb9"
+  },
+  "name": "무장아찌",
+  "kcal": 9.11,
+  "carbs": 1.77,
+  "sugar": 1.1,
+  "fat": 0.09,
+  "protein": 0.19,
+  "calcium": 5.21,
+  "phosphorus": 5.02,
+  "salt": 311.09,
+  "potassium": 35.34,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.05,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccba"
+  },
+  "name": "양념게장",
+  "kcal": 13.78,
+  "carbs": 2.32,
+  "sugar": 1.33,
+  "fat": 0.1,
+  "protein": 1.02,
+  "calcium": 8.29,
+  "phosphorus": 14.17,
+  "salt": 87.39,
+  "potassium": 39.63,
+  "magnesium": 0,
+  "iron": 0.26,
+  "zinc": 0.26,
+  "cholesterol": 6.72,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccbb"
+  },
+  "name": "양파장아찌",
+  "kcal": 3.94,
+  "carbs": 0.71,
+  "sugar": 0.3,
+  "fat": 0.01,
+  "protein": 0.12,
+  "calcium": 1.01,
+  "phosphorus": 2.68,
+  "salt": 84.72,
+  "potassium": 12.67,
+  "magnesium": 0,
+  "iron": 0.04,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccbc"
+  },
+  "name": "오이지",
+  "kcal": 2.29,
+  "carbs": 0.48,
+  "sugar": 0,
+  "fat": 0.06,
+  "protein": 0.23,
+  "calcium": 6.04,
+  "phosphorus": 16.02,
+  "salt": 185.2,
+  "potassium": 65.64,
+  "magnesium": 0,
+  "iron": 0.13,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccbd"
+  },
+  "name": "무피클",
+  "kcal": 3.4,
+  "carbs": 0.84,
+  "sugar": 0.4,
+  "fat": 0.01,
+  "protein": 0.08,
+  "calcium": 2.62,
+  "phosphorus": 2.31,
+  "salt": 1.32,
+  "potassium": 21.66,
+  "magnesium": 0,
+  "iron": 0.07,
+  "zinc": 0.03,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccbe"
+  },
+  "name": "오이피클",
+  "kcal": 10.8,
+  "carbs": 2.93,
+  "sugar": 0.4,
+  "fat": 0.03,
+  "protein": 0.06,
+  "calcium": 3.02,
+  "phosphorus": 0.81,
+  "salt": 66.72,
+  "potassium": 5.46,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.01,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccbf"
+  },
+  "name": "단무지",
+  "kcal": 1.3,
+  "carbs": 0.22,
+  "sugar": 0.08,
+  "fat": 0.05,
+  "protein": 0.04,
+  "calcium": 1.73,
+  "phosphorus": 1.18,
+  "salt": 57.85,
+  "potassium": 5.36,
+  "magnesium": 0,
+  "iron": 0.03,
+  "zinc": 0.01,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccc0"
+  },
+  "name": "오징어젓갈",
+  "kcal": 6.83,
+  "carbs": 0.29,
+  "sugar": 0,
+  "fat": 0.1,
+  "protein": 1.24,
+  "calcium": 2.4,
+  "phosphorus": 17.6,
+  "salt": 179.11,
+  "potassium": 27.04,
+  "magnesium": 2.07,
+  "iron": 0.07,
+  "zinc": 0.11,
+  "cholesterol": 13.68,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccc1"
+  },
+  "name": "명란젓",
+  "kcal": 12,
+  "carbs": 0.27,
+  "sugar": 0,
+  "fat": 0.3,
+  "protein": 2.05,
+  "calcium": 2.8,
+  "phosphorus": 24.9,
+  "salt": 353.1,
+  "potassium": 41,
+  "magnesium": 0,
+  "iron": 0.12,
+  "zinc": 0.2,
+  "cholesterol": 35,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccc2"
+  },
+  "name": "생연어",
+  "kcal": 11.03,
+  "carbs": 0.1,
+  "sugar": 0,
+  "fat": 0.19,
+  "protein": 2.09,
+  "calcium": 2.69,
+  "phosphorus": 24.9,
+  "salt": 21.31,
+  "potassium": 34.96,
+  "magnesium": 0.08,
+  "iron": 0.13,
+  "zinc": 0.06,
+  "cholesterol": 6,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccc3"
+  },
+  "name": "생선물회",
+  "kcal": 7.19,
+  "carbs": 1.02,
+  "sugar": 0.37,
+  "fat": 0.18,
+  "protein": 0.46,
+  "calcium": 3.35,
+  "phosphorus": 6.24,
+  "salt": 37.33,
+  "potassium": 19.5,
+  "magnesium": 0,
+  "iron": 0.1,
+  "zinc": 0.04,
+  "cholesterol": 0.01,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccc4"
+  },
+  "name": "광어회 ",
+  "kcal": 11.62,
+  "carbs": 0.93,
+  "sugar": 0.55,
+  "fat": 0.14,
+  "protein": 1.72,
+  "calcium": 4.66,
+  "phosphorus": 17.12,
+  "salt": 75.44,
+  "potassium": 38.2,
+  "magnesium": 0,
+  "iron": 0.15,
+  "zinc": 0.04,
+  "cholesterol": 7.5,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccc5"
+  },
+  "name": "훈제연어",
+  "kcal": 16.9,
+  "carbs": 0.93,
+  "sugar": 0.55,
+  "fat": 0.62,
+  "protein": 1.93,
+  "calcium": 2.02,
+  "phosphorus": 20,
+  "salt": 126.08,
+  "potassium": 21.88,
+  "magnesium": 0,
+  "iron": 0.09,
+  "zinc": 0.06,
+  "cholesterol": 14.16,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccc6"
+  },
+  "name": "육회",
+  "kcal": 15.77,
+  "carbs": 1.06,
+  "sugar": 0.47,
+  "fat": 0.54,
+  "protein": 1.67,
+  "calcium": 3.05,
+  "phosphorus": 16.29,
+  "salt": 28.89,
+  "potassium": 40.56,
+  "magnesium": 0,
+  "iron": 0.2,
+  "zinc": 0.32,
+  "cholesterol": 3.85,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccc7"
+  },
+  "name": "육사시미",
+  "kcal": 13.57,
+  "carbs": 0.46,
+  "sugar": 0.27,
+  "fat": 0.41,
+  "protein": 1.95,
+  "calcium": 2.01,
+  "phosphorus": 16.8,
+  "salt": 59.2,
+  "potassium": 36.12,
+  "magnesium": 0,
+  "iron": 0.53,
+  "zinc": 0.24,
+  "cholesterol": 4.23,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccc8"
+  },
+  "name": "가래떡",
+  "kcal": 20.5,
+  "carbs": 4.5,
+  "sugar": 0,
+  "fat": 0.03,
+  "protein": 0.35,
+  "calcium": 0.25,
+  "phosphorus": 7.7,
+  "salt": 25.47,
+  "potassium": 9.05,
+  "magnesium": 0,
+  "iron": 0.02,
+  "zinc": 0.08,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccc9"
+  },
+  "name": "경단",
+  "kcal": 30.38,
+  "carbs": 6.7,
+  "sugar": 0,
+  "fat": 0.05,
+  "protein": 0.66,
+  "calcium": 1.79,
+  "phosphorus": 10.91,
+  "salt": 18.64,
+  "potassium": 9.93,
+  "magnesium": 0,
+  "iron": 0.16,
+  "zinc": 0.14,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccca"
+  },
+  "name": "꿀떡",
+  "kcal": 22.59,
+  "carbs": 5.04,
+  "sugar": 0.96,
+  "fat": 0.08,
+  "protein": 0.32,
+  "calcium": 0.71,
+  "phosphorus": 7.15,
+  "salt": 25.13,
+  "potassium": 8.37,
+  "magnesium": 0.01,
+  "iron": 0.03,
+  "zinc": 0.08,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cccb"
+  },
+  "name": "시루떡",
+  "kcal": 22.36,
+  "carbs": 4.9,
+  "sugar": 0.6,
+  "fat": 0.03,
+  "protein": 0.55,
+  "calcium": 1.66,
+  "phosphorus": 5.95,
+  "salt": 27.89,
+  "potassium": 21.26,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.14,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cccc"
+  },
+  "name": "메밀전병",
+  "kcal": 16.61,
+  "carbs": 2.48,
+  "sugar": 0,
+  "fat": 0.55,
+  "protein": 0.58,
+  "calcium": 3.7,
+  "phosphorus": 13.76,
+  "salt": 34.07,
+  "potassium": 27.45,
+  "magnesium": 6.98,
+  "iron": 0.14,
+  "zinc": 0.1,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cccd"
+  },
+  "name": "찰떡",
+  "kcal": 21.62,
+  "carbs": 4.49,
+  "sugar": 0.55,
+  "fat": 0.12,
+  "protein": 0.58,
+  "calcium": 1.52,
+  "phosphorus": 8.38,
+  "salt": 23.68,
+  "potassium": 15.14,
+  "magnesium": 0.99,
+  "iron": 0.16,
+  "zinc": 0.15,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccce"
+  },
+  "name": "무지개떡",
+  "kcal": 21.82,
+  "carbs": 4.87,
+  "sugar": 0.7,
+  "fat": 0.09,
+  "protein": 0.4,
+  "calcium": 2.67,
+  "phosphorus": 8.93,
+  "salt": 27.77,
+  "potassium": 11.5,
+  "magnesium": 0,
+  "iron": 0.05,
+  "zinc": 0.1,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47cccf"
+  },
+  "name": "백설기",
+  "kcal": 21.88,
+  "carbs": 4.82,
+  "sugar": 1.2,
+  "fat": 0.08,
+  "protein": 0.4,
+  "calcium": 1.08,
+  "phosphorus": 7.9,
+  "salt": 29.7,
+  "potassium": 9.69,
+  "magnesium": 0.42,
+  "iron": 0.06,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccd0"
+  },
+  "name": "송편",
+  "kcal": 23.49,
+  "carbs": 4.68,
+  "sugar": 0.15,
+  "fat": 0.27,
+  "protein": 0.42,
+  "calcium": 4.6,
+  "phosphorus": 7.72,
+  "salt": 23.66,
+  "potassium": 6.79,
+  "magnesium": 2,
+  "iron": 0.11,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccd1"
+  },
+  "name": "수수부꾸미",
+  "kcal": 25.9,
+  "carbs": 4.62,
+  "sugar": 0.3,
+  "fat": 0.57,
+  "protein": 0.55,
+  "calcium": 0.64,
+  "phosphorus": 9.55,
+  "salt": 27,
+  "potassium": 16.24,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.13,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccd2"
+  },
+  "name": "수수팥떡",
+  "kcal": 21.27,
+  "carbs": 4.52,
+  "sugar": 0.1,
+  "fat": 0.07,
+  "protein": 0.6,
+  "calcium": 0.75,
+  "phosphorus": 9.96,
+  "salt": 23.64,
+  "potassium": 18.2,
+  "magnesium": 0,
+  "iron": 0.11,
+  "zinc": 0.14,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccd3"
+  },
+  "name": "쑥떡",
+  "kcal": 23.81,
+  "carbs": 5.46,
+  "sugar": 1,
+  "fat": 0.04,
+  "protein": 0.45,
+  "calcium": 6.52,
+  "phosphorus": 6.55,
+  "salt": 25.61,
+  "potassium": 34.36,
+  "magnesium": 1.75,
+  "iron": 0.16,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccd4"
+  },
+  "name": "약식",
+  "kcal": 23.22,
+  "carbs": 4.89,
+  "sugar": 0.8,
+  "fat": 0.23,
+  "protein": 0.38,
+  "calcium": 1.29,
+  "phosphorus": 7.97,
+  "salt": 29.06,
+  "potassium": 14.21,
+  "magnesium": 1.21,
+  "iron": 0.25,
+  "zinc": 0.13,
+  "cholesterol": 0.02,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccd5"
+  },
+  "name": "인절미",
+  "kcal": 21.45,
+  "carbs": 4.25,
+  "sugar": 0,
+  "fat": 0.18,
+  "protein": 0.64,
+  "calcium": 1.5,
+  "phosphorus": 11.72,
+  "salt": 33.77,
+  "potassium": 23.26,
+  "magnesium": 1.13,
+  "iron": 0.19,
+  "zinc": 0.16,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccd6"
+  },
+  "name": "절편",
+  "kcal": 19.78,
+  "carbs": 4.41,
+  "sugar": 0.5,
+  "fat": 0.03,
+  "protein": 0.31,
+  "calcium": 0.25,
+  "phosphorus": 6.69,
+  "salt": 26.68,
+  "potassium": 7.95,
+  "magnesium": 0,
+  "iron": 0.02,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccd7"
+  },
+  "name": "증편",
+  "kcal": 19.87,
+  "carbs": 4.42,
+  "sugar": 1.6,
+  "fat": 0.03,
+  "protein": 0.25,
+  "calcium": 0.68,
+  "phosphorus": 5.21,
+  "salt": 25.9,
+  "potassium": 6.1,
+  "magnesium": 0,
+  "iron": 0.02,
+  "zinc": 0.06,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccd8"
+  },
+  "name": "찹쌀떡",
+  "kcal": 26.47,
+  "carbs": 6.21,
+  "sugar": 1.4,
+  "fat": 0.02,
+  "protein": 0.34,
+  "calcium": 1.57,
+  "phosphorus": 7.17,
+  "salt": 22.64,
+  "potassium": 8.68,
+  "magnesium": 0.77,
+  "iron": 0.15,
+  "zinc": 0.11,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccd9"
+  },
+  "name": "매작과",
+  "kcal": 40.49,
+  "carbs": 6.35,
+  "sugar": 0,
+  "fat": 1.19,
+  "protein": 0.85,
+  "calcium": 1.11,
+  "phosphorus": 8.82,
+  "salt": 10.35,
+  "potassium": 14.13,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.04,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccda"
+  },
+  "name": "다식",
+  "kcal": 35.06,
+  "carbs": 6.94,
+  "sugar": 2.15,
+  "fat": 0.58,
+  "protein": 1.18,
+  "calcium": 0.48,
+  "phosphorus": 33.36,
+  "salt": 1.28,
+  "potassium": 68.9,
+  "magnesium": 0,
+  "iron": 0.17,
+  "zinc": 0.01,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccdb"
+  },
+  "name": "약과",
+  "kcal": 37.95,
+  "carbs": 7.39,
+  "sugar": 0.72,
+  "fat": 0.41,
+  "protein": 0.86,
+  "calcium": 1.48,
+  "phosphorus": 9.41,
+  "salt": 5.49,
+  "potassium": 19.81,
+  "magnesium": 0,
+  "iron": 0.19,
+  "zinc": 0.05,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccdc"
+  },
+  "name": "유과",
+  "kcal": 43.02,
+  "carbs": 8.05,
+  "sugar": 0.37,
+  "fat": 1.17,
+  "protein": 0.12,
+  "calcium": 0.4,
+  "phosphorus": 1.2,
+  "salt": 2.35,
+  "potassium": 0.01,
+  "magnesium": 0,
+  "iron": 0.08,
+  "zinc": 0.07,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccdd"
+  },
+  "name": "산자",
+  "kcal": 40.57,
+  "carbs": 8.23,
+  "sugar": 3.54,
+  "fat": 0.4,
+  "protein": 0.3,
+  "calcium": 0.67,
+  "phosphorus": 6.79,
+  "salt": 2.67,
+  "potassium": 20.31,
+  "magnesium": 0,
+  "iron": 0.14,
+  "zinc": 0.09,
+  "cholesterol": 0,
+  "trans_fat": 0
+},{
+  "_id": {
+    "$oid": "6246d6477d03310e2b47ccde"
+  },
+  "name": "깨강정",
+  "kcal": 50.1,
+  "carbs": 4.54,
+  "sugar": 0,
+  "fat": 3.29,
+  "protein": 1.5,
+  "calcium": 52,
+  "phosphorus": 41.9,
+  "salt": 8.1,
+  "potassium": 22.5,
+  "magnesium": 0,
+  "iron": 0.46,
+  "zinc": 0.71,
+  "cholesterol": 0,
+  "trans_fat": 0
+}]

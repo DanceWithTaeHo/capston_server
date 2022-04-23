@@ -1,5 +1,6 @@
 const router = require('express').Router();
 const user = require('../models/user');
+const userLog = require('../models/user_log');
 
 // Find All
 router.get('/', (req, res) => {
@@ -24,7 +25,14 @@ router.get('/:userId', (req, res) => {
 // Create new user document
 router.post('/', (req, res) => {
     user.create(req.body)
-        .then(user => res.send(user))
+        .then((user) => {
+            userLogPayload = {
+                uid: req.body.uid,
+                dates: []
+            };
+            userLog.create(req.body).catch(err => res.status(500).send(err));
+            res.send(user);
+        })
         .catch(err => res.status(500).send(err));
 });
 

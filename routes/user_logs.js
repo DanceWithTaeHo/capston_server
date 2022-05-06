@@ -125,7 +125,8 @@ router.post('/:userId/:date/exercises', (req, res) => {
     checkAndMakeDate(userId, date);
     setTimeout(() => userLog.findOneAndUpdateExercise(userId, date, payload)
         .then((userLog) => {
-            res.send({ userLog });
+            msg = userLog.uid + "의 운동정보를 성공적으로 추가하였습니다."
+            res.send({ msg });
         }).catch(err => res.status(500).send(err)), 50);
 });
 
@@ -147,12 +148,14 @@ router.post('/:userId/:date/meals', (req, res) => {
             mUserLog.dates.find((v) => {
                 if (v.date == date) {
                     diet_info = v.diet_info;
-                    console.log(v);
+                    diet_payload = foodSizeCalculator(food, diet_info, payload.size);
                 }
             });
-            diet_payload = foodSizeCalculator(food, diet_info, payload.size);
             userLog.findOneAndUpdateDietInfo(userId, date, diet_payload)
-                .then((mUserLog) => { res.send({ mUserLog }); })
+                .then((mUserLog) => {
+                    msg = mUserLog.uid + "의 음식정보를 성공적으로 추가하였습니다."
+                    res.send({ msg });
+                })
                 .catch(err => res.status(500).send(err));
         }).catch(err => res.status(500).send(err)), 50);
 });
@@ -197,23 +200,23 @@ function foodSizeCalculator(food, diet_info, size) {
 
     if (diet_info.intake_kcal != null) {
         payload = {
-            "intake_kcal": ((food.kcal + diet_info.intake_kcal) * ratio).toFixed(2),
+            "intake_kcal": ((food.kcal + Number(diet_info.intake_kcal)) * ratio).toFixed(2),
             "burned_kcal": ((diet_info.burned_kcal) * ratio).toFixed(2),
             "exercise_time": ((diet_info.exercise_time) * ratio).toFixed(2),
             "weight": ((diet_info.weight) * ratio).toFixed(2),
-            "intake_carbs": ((food.carbs + diet_info.intake_carbs) * ratio).toFixed(2),
-            "intake_protein": ((food.protein + diet_info.intake_protein) * ratio).toFixed(2),
-            "intake_fat": ((food.fat + diet_info.intake_fat) * ratio).toFixed(2)
+            "intake_carbs": ((food.carbs + Number(diet_info.intake_carbs)) * ratio).toFixed(2),
+            "intake_protein": ((food.protein + Number(diet_info.intake_protein)) * ratio).toFixed(2),
+            "intake_fat": ((food.fat + Number(diet_info.intake_fat)) * ratio).toFixed(2)
         }
     } else {
         payload = {
-            "intake_kcal": food.kcal * ratio,
+            "intake_kcal": (food.kcal * ratio).toFixed(2),
             "burned_kcal": 0,
             "exercise_time": 0,
             "weight": 0,
-            "intake_carbs": food.carbs * ratio,
-            "intake_protein": food.protein * ratio,
-            "intake_fat": food.fat * ratio
+            "intake_carbs": (food.carbs * ratio).toFixed(2),
+            "intake_protein": (food.protein * ratio).toFixed(2),
+            "intake_fat": (food.fat * ratio).toFixed(2)
         }
     }
     return payload

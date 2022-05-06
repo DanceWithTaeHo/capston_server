@@ -24,12 +24,25 @@ router.get('/:userId', (req, res) => {
 
 // 날짜 정보
 router.get('/:userId/:date', (req, res) => {
+    date = req.params.date;
     userLog.findOneByUserId(req.params.userId)
-        .then((userLog) => {
-            if (!userLog) return res.status(404).send({ err: 'userLog not found' });
-            date = req.params.date;
-            dateLog = userLog.date[date]
+        .then((mUserLog) => {
+            if (!mUserLog) return res.status(404).send({ err: 'userLog not found' });
+            console.log(mUserLog.dates);
+            dateLog = mUserLog.dates.find(v => v.date == date)
             res.send({ dateLog });
+        })
+        .catch(err => res.status(500).send(err));
+});
+
+// 날짜 정보
+router.get('/:userId/dates', (req, res) => {
+    date = req.params.date;
+    userLog.findOneByUserId(req.params.userId)
+        .then((mUserLog) => {
+            if (!mUserLog) return res.status(404).send({ err: 'userLog not found' });
+            dates = mUserLog.dates;
+            res.send({ dates });
         })
         .catch(err => res.status(500).send(err));
 });
@@ -126,6 +139,7 @@ router.post('/:userId/:date/meals', (req, res) => {
     food = {};
     Food.findOneByfoodName(payload.food).then((mfood) => food = mfood).catch(err => console.log(err));
     checkAndMakeDate(userId, date);
+    payload = addFoodinfo(food, payload)
 
     setTimeout(() => userLog.findOneAndUpdateFood(userId, date, payload)
         .then((mUserLog) => {
@@ -200,6 +214,15 @@ function foodSizeCalculator(food, diet_info, size) {
             "intake_fat": food.fat * ratio
         }
     }
+    return payload
+}
+
+function addFoodinfo(food, payload) {
+    payload.kcal = food.kcal
+    payload.carbs = food.carbs
+    payload.protein = food.protein
+    payload.fat = food.fat
+
     return payload
 }
 

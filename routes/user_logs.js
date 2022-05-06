@@ -28,7 +28,6 @@ router.get('/:userId/:date', (req, res) => {
     userLog.findOneByUserId(req.params.userId)
         .then((mUserLog) => {
             if (!mUserLog) return res.status(404).send({ err: 'userLog not found' });
-            console.log(mUserLog.dates);
             dateLog = mUserLog.dates.find(v => v.date == date)
             res.send({ dateLog });
         })
@@ -137,15 +136,18 @@ router.post('/:userId/:date/meals', (req, res) => {
     userId = req.params.userId;
     diet_info = {};
     food = {};
-    Food.findOneByfoodName(payload.food).then((mfood) => food = mfood).catch(err => console.log(err));
-    checkAndMakeDate(userId, date);
-    payload = addFoodinfo(food, payload)
+    Food.findOneByfoodName(payload.food).then((mfood) => {
+        food = mfood
+        payload = addFoodinfo(food, payload)
+    }).catch(err => console.log(err));
 
+    checkAndMakeDate(userId, date);
     setTimeout(() => userLog.findOneAndUpdateFood(userId, date, payload)
         .then((mUserLog) => {
             mUserLog.dates.find((v) => {
                 if (v.date == date) {
                     diet_info = v.diet_info;
+                    console.log(v);
                 }
             });
             diet_payload = foodSizeCalculator(food, diet_info, payload.size);

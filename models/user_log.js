@@ -19,7 +19,6 @@ UserLogSchema.statics.create = function (payload) {
     return this.findOneAndUpdate({ uid: userLog.uid }, payload, { upsert: true });
 };
 
-
 // Find All
 UserLogSchema.statics.findAll = function () {
     // return promise

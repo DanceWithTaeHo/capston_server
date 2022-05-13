@@ -148,7 +148,7 @@ router.post('/:userId/:date/meals', (req, res) => {
             mUserLog.dates.find((v) => {
                 if (v.date == date) {
                     diet_info = v.diet_info;
-                    diet_payload = foodSizeCalculator(food, diet_info, payload.size);
+                    diet_payload = foodSizeCalculator(food, diet_info, payload.gram);
                 }
             });
             userLog.findOneAndUpdateDietInfo(userId, date, diet_payload)
@@ -180,6 +180,33 @@ function checkAndMakeDate(userId, date) {
         }).catch(err => console.log(err));
 }
 
+function foodSizeCalculator(food, diet_info, gram) {
+    diet_payload = {};
+
+    if (diet_info.intake_kcal != null) {
+        payload = {
+            "intake_kcal": ((food.kcal * gram) + Number(diet_info.intake_kcal)).toFixed(2),
+            "burned_kcal": ((diet_info.burned_kcal)).toFixed(2),
+            "exercise_time": ((diet_info.exercise_time)).toFixed(2),
+            "weight": ((diet_info.weight)).toFixed(2),
+            "intake_carbs": ((food.carbs * gram) + Number(diet_info.intake_carbs)).toFixed(2),
+            "intake_protein": ((food.protein * gram) + Number(diet_info.intake_protein)).toFixed(2),
+            "intake_fat": ((food.fat * gram) + Number(diet_info.intake_fat)).toFixed(2)
+        }
+    } else {
+        payload = {
+            "intake_kcal": (food.kcal * gram).toFixed(2),
+            "burned_kcal": 0,
+            "exercise_time": 0,
+            "weight": 0,
+            "intake_carbs": (food.carbs * ratio).toFixed(2),
+            "intake_protein": (food.protein * ratio).toFixed(2),
+            "intake_fat": (food.fat * ratio).toFixed(2)
+        }
+    }
+    return payload
+}
+/*
 function foodSizeCalculator(food, diet_info, size) {
     ratio = 1;
     diet_payload = {};
@@ -221,15 +248,41 @@ function foodSizeCalculator(food, diet_info, size) {
     }
     return payload
 }
-
+*/
 function addFoodinfo(food, payload) {
-    payload.kcal = food.kcal
-    payload.carbs = food.carbs
-    payload.protein = food.protein
-    payload.fat = food.fat
+    gram = payload.gram;
+
+    payload.kcal = (food.kcal * gram).toFixed(2)
+    payload.carbs = (food.carbs * gram).toFixed(2)
+    payload.protein = (food.protein * gram).toFixed(2)
+    payload.fat = (food.fat * gram).toFixed(2)
 
     return payload
 }
+/*
+function addFoodinfo(food, payload) {
+    ratio = 1;
 
+    switch (payload.size) {
+        case "small":
+            ratio = 0.7;
+            break;
+        case "medium":
+            ratio = 1;
+            break;
+        case "large":
+            ratio = 1.3;
+            break;
+        default:
+            break;
+    }
+    payload.kcal = (food.kcal * ratio).toFixed(2)
+    payload.carbs = (food.carbs * ratio).toFixed(2)
+    payload.protein = (food.protein * ratio).toFixed(2)
+    payload.fat = (food.fat * ratio).toFixed(2)
+
+    return payload
+}
+*/
 
 module.exports = router;

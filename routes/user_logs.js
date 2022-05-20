@@ -221,9 +221,9 @@ function foodSizeCalculator(food, diet_info, gram) {
             "burned_kcal": parseFloat(diet_info.burned_kcal),
             "exercise_time": 0,
             "weight": 0,
-            "intake_carbs": (food.carbs * ratio).toFixed(2),
-            "intake_protein": (food.protein * ratio).toFixed(2),
-            "intake_fat": (food.fat * ratio).toFixed(2)
+            "intake_carbs": (food.carbs * gram).toFixed(2),
+            "intake_protein": (food.protein * gram).toFixed(2),
+            "intake_fat": (food.fat * gram).toFixed(2)
         }
     } else {
         payload = {
@@ -231,9 +231,9 @@ function foodSizeCalculator(food, diet_info, gram) {
             "burned_kcal": 0,
             "exercise_time": 0,
             "weight": 0,
-            "intake_carbs": (food.carbs * ratio).toFixed(2),
-            "intake_protein": (food.protein * ratio).toFixed(2),
-            "intake_fat": (food.fat * ratio).toFixed(2)
+            "intake_carbs": (food.carbs * gram).toFixed(2),
+            "intake_protein": (food.protein * gram).toFixed(2),
+            "intake_fat": (food.fat * gram).toFixed(2)
         }
     }
     return payload

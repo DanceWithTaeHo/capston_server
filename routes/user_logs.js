@@ -268,10 +268,10 @@ function exerciseCalculator(payload, diet_info) {
 function aerobicCalculator(payload) {
     var _payload = payload;
     if (payload.exercise == "런닝머신") {
-        _payload['burned_kcal'] = seFloat((payload.time * 0.16).toFixed(2));
+        _payload['burned_kcal'] = parseFloat((payload.time * 0.16).toFixed(2));
     }
     else if (payload.exercise == "계단오르기") {
-        _payload['burned_kcal'] = seFloat((payload.time * 0.142).toFixed(2));
+        _payload['burned_kcal'] = parseFloat((payload.time * 0.142).toFixed(2));
     }
     else if (payload.exercise == "조깅") {
         _payload['burned_kcal'] = parseFloat((payload.time * 0.13).toFixed(2));

@@ -68,7 +68,7 @@ http://112.146.120.145:3010/userLogs/test/20220405/meals
 ```json
 {
 	"food": "쌀밥",
-	"size" : "medium",
+	"gram" : 210,
     "kind" : "lunch"
 }
 ```
@@ -78,7 +78,7 @@ http://112.146.120.145:3010/userLogs/test/20220405/meals
 - Type
 
   - food: String 
-  - size: String
+  - size: Int
 
 
 

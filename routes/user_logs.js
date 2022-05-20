@@ -122,11 +122,25 @@ router.post('/:userId/:date/exercises', (req, res) => {
     date = req.params.date;
     userId = req.params.userId;
 
+    if (payload.time != null) {
+        payload = aerobicCalculator(payload);
+    }
+
     checkAndMakeDate(userId, date);
     setTimeout(() => userLog.findOneAndUpdateExercise(userId, date, payload)
-        .then((userLog) => {
-            msg = userLog.uid + "의 운동정보를 성공적으로 추가하였습니다."
-            res.send({ msg });
+        .then((mUserLog) => {
+            mUserLog.dates.find((v) => {
+                if (v.date == date) {
+                    diet_info = v.diet_info;
+                    diet_payload = exerciseCalculator(payload, diet_info);
+                }
+            });
+            userLog.findOneAndUpdateDietInfo(userId, date, diet_payload)
+                .then((mUserLog) => {
+                    msg = mUserLog.uid + "의 운동정보를 성공적으로 추가하였습니다."
+                    res.send({ msg });
+                })
+                .catch(err => res.status(500).send(err));
         }).catch(err => res.status(500).send(err)), 50);
 });
 
@@ -181,17 +195,35 @@ function checkAndMakeDate(userId, date) {
 }
 
 function foodSizeCalculator(food, diet_info, gram) {
-    diet_payload = {};
-
-    if (diet_info.intake_kcal != null) {
+    if (diet_info.intake_kcal != null && diet_info.burned_kcal != null) {
         payload = {
             "intake_kcal": ((food.kcal * gram) + Number(diet_info.intake_kcal)).toFixed(2),
-            "burned_kcal": ((diet_info.burned_kcal)).toFixed(2),
-            "exercise_time": ((diet_info.exercise_time)).toFixed(2),
-            "weight": ((diet_info.weight)).toFixed(2),
+            "burned_kcal": (diet_info.burned_kcal),
+            "exercise_time": 0,
+            "weight": 0,
             "intake_carbs": ((food.carbs * gram) + Number(diet_info.intake_carbs)).toFixed(2),
             "intake_protein": ((food.protein * gram) + Number(diet_info.intake_protein)).toFixed(2),
             "intake_fat": ((food.fat * gram) + Number(diet_info.intake_fat)).toFixed(2)
+        }
+    } else if (diet_info.intake_kcal != null && diet_info.burned_kcal == null) {
+        payload = {
+            "intake_kcal": ((food.kcal * gram) + Number(diet_info.intake_kcal)).toFixed(2),
+            "burned_kcal": 0,
+            "exercise_time": 0,
+            "weight": 0,
+            "intake_carbs": ((food.carbs * gram) + Number(diet_info.intake_carbs)).toFixed(2),
+            "intake_protein": ((food.protein * gram) + Number(diet_info.intake_protein)).toFixed(2),
+            "intake_fat": ((food.fat * gram) + Number(diet_info.intake_fat)).toFixed(2)
+        }
+    } else if (diet_info.intake_kcal == null && diet_info.burned_kcal != null) {
+        payload = {
+            "intake_kcal": (food.kcal * gram).toFixed(2),
+            "burned_kcal": parseFloat(diet_info.burned_kcal),
+            "exercise_time": 0,
+            "weight": 0,
+            "intake_carbs": (food.carbs * ratio).toFixed(2),
+            "intake_protein": (food.protein * ratio).toFixed(2),
+            "intake_fat": (food.fat * ratio).toFixed(2)
         }
     } else {
         payload = {
@@ -205,6 +237,47 @@ function foodSizeCalculator(food, diet_info, gram) {
         }
     }
     return payload
+}
+
+function exerciseCalculator(payload, diet_info) {
+    var diet_payload = {};
+    if (diet_info.intake_kcal == null && diet_info.burned_kcal == null) {
+        diet_payload = {
+            "intake_kcal": 0.0,
+            "burned_kcal": payload.burned_kcal,
+            "exercise_time": 0.0,
+            "weight": 0.0,
+            "intake_carbs": 0.0,
+            "intake_protein": 0.0,
+            "intake_fat": 0.0
+        }
+    } else {
+        diet_payload = {
+            "intake_kcal": diet_info.intake_kcal,
+            "burned_kcal": (parseFloat((diet_info.burned_kcal)) + ((payload.burned_kcal))).toFixed(2),
+            "exercise_time": 0,
+            "weight": 0,
+            "intake_carbs": diet_info.intake_carbs,
+            "intake_protein": diet_info.intake_protein,
+            "intake_fat": diet_info.intake_fat,
+        }
+    }
+    return diet_payload
+}
+
+function aerobicCalculator(payload) {
+    var _payload = payload;
+    if (payload.exercise == "런닝머신") {
+        _payload['burned_kcal'] = seFloat((payload.time * 0.16).toFixed(2));
+    }
+    else if (payload.exercise == "계단오르기") {
+        _payload['burned_kcal'] = seFloat((payload.time * 0.142).toFixed(2));
+    }
+    else if (payload.exercise == "조깅") {
+        _payload['burned_kcal'] = parseFloat((payload.time * 0.13).toFixed(2));
+    }
+
+    return _payload
 }
 /*
 function foodSizeCalculator(food, diet_info, size) {

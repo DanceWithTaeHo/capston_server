@@ -124,6 +124,8 @@ router.post('/:userId/:date/exercises', (req, res) => {
 
     if (payload.time != null) {
         payload = aerobicCalculator(payload);
+    } else {
+        payload = exerciseCalculator(payload);
     }
 
     checkAndMakeDate(userId, date);
@@ -265,6 +267,38 @@ function exerciseCalculator(payload, diet_info) {
     return diet_payload
 }
 
+function exerciseCalculator(payload) {
+    var _payload = payload;
+    if (payload.exercise == "푸쉬업") {
+        _payload['burned_kcal'] = parseFloat((payload.reps * 0.47).toFixed(2));
+    }
+    else if (payload.exercise == "스쿼트") {
+        _payload['burned_kcal'] = parseFloat((payload.reps * 0.5).toFixed(2));
+    }
+    else if (payload.exercise == "풀업") {
+        _payload['burned_kcal'] = parseFloat((payload.reps * 1.0).toFixed(2));
+    }
+    else if (payload.exercise == "윗몸일으키기") {
+        _payload['burned_kcal'] = parseFloat((payload.reps * 0.9).toFixed(2));
+    }
+    else if (payload.exercise == "데드리프트") {
+        _payload['burned_kcal'] = parseFloat((payload.reps * 1.5).toFixed(2));
+    }
+    else if (payload.exercise == "바벨로우") {
+        _payload['burned_kcal'] = parseFloat((payload.reps * 1.3).toFixed(2));
+    }
+    else if (payload.exercise == "바벨컬") {
+        _payload['burned_kcal'] = parseFloat((payload.reps * 1.3).toFixed(2));
+    }
+    else if (payload.exercise == "덤벨컬") {
+        _payload['burned_kcal'] = parseFloat((payload.reps * 1.3).toFixed(2));
+    }
+    else if (payload.exercise == "플랭크") {
+        _payload['burned_kcal'] = parseFloat((payload.reps * 1.3).toFixed(2));
+    }
+
+    return _payload
+}
 function aerobicCalculator(payload) {
     var _payload = payload;
     if (payload.exercise == "런닝머신") {

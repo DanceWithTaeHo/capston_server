@@ -177,6 +177,37 @@ router.post('/:userId/:date/meals', (req, res) => {
 });
 
 
+// 음식 정보 전송
+router.post('/:userId/:date/image', (req, res) => {
+    payload = req.body;
+    date = req.params.date;
+    userId = req.params.userId;
+    image = payload.image
+    checkAndMakeDate(userId, date);
+
+    if (payload.kind == "breakfast") {
+        setTimeout(() => userLog.findOneAndUpdateBreakfastImage(userId, date, image)
+            .then((mUserLog) => {
+                msg = mUserLog.uid + "의 사진 정보를 성공적으로 추가하였습니다."
+                res.send({ msg });
+            })
+            .catch(err => res.status(500).send(err)), 50);
+    } else if (payload.kind == "lunch") {
+        setTimeout(() => userLog.findOneAndUpdatelunchImage(userId, date, image)
+            .then((mUserLog) => {
+                msg = mUserLog.uid + "의 사진 정보를 성공적으로 추가하였습니다."
+                res.send({ msg });
+            })
+            .catch(err => res.status(500).send(err)), 50);
+    } else if (payload.kind == "dinner") {
+        setTimeout(() => userLog.findOneAndUpdateDinnerImage(userId, date, image)
+            .then((mUserLog) => {
+                msg = mUserLog.uid + "의 사진 정보를 성공적으로 추가하였습니다."
+                res.send({ msg });
+            })
+            .catch(err => res.status(500).send(err)), 50);
+    }
+});
 
 // Delete by userid
 router.delete('/userid/:userId', (req, res) => {

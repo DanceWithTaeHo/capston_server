@@ -85,6 +85,23 @@ UserLogSchema.statics.findOneAndUpdateFood = function (userId, inputDate, payloa
     );
 };
 
+// 음식 추가
+UserLogSchema.statics.findOneAndUpdateFood = function (userId, inputDate, payload) {
+    return this.findOneAndUpdate(
+        {
+            $and: [
+                { uid: userId },
+                { 'dates.date': inputDate },
+            ]
+        },
+        {
+            $push: {
+                "dates.$.meals": payload
+            }
+        },
+        { upsert: true }
+    );
+};
 // 영양성분 추가
 UserLogSchema.statics.findOneAndUpdateDietInfo = function (userId, inputDate, payload) {
 
@@ -104,6 +121,64 @@ UserLogSchema.statics.findOneAndUpdateDietInfo = function (userId, inputDate, pa
     );
 };
 
+// 아침식사 이미지 추가
+UserLogSchema.statics.findOneAndUpdateBreakfastImage = function (userId, inputDate, image) {
+
+    return this.findOneAndUpdate(
+        {
+            $and: [
+                { uid: userId },
+                { 'dates.date': inputDate },
+            ]
+        },
+        {
+            $set: {
+                "dates.$.breakfast_image": image
+            }
+        },
+        { upsert: true }
+    );
+};
+
+
+// 점심식사 이미지 추가
+UserLogSchema.statics.findOneAndUpdateLunchImage = function (userId, inputDate, image) {
+
+    return this.findOneAndUpdate(
+        {
+            $and: [
+                { uid: userId },
+                { 'dates.date': inputDate },
+            ]
+        },
+        {
+            $set: {
+                "dates.$.lunch_image": image
+            }
+        },
+        { upsert: true }
+    );
+};
+
+// 저녁식사 이미지 추가
+UserLogSchema.statics.findOneAndUpdateDinnerImage = function (userId, inputDate, image) {
+    console.log(image);
+
+    return this.findOneAndUpdate(
+        {
+            $and: [
+                { uid: userId },
+                { 'dates.date': inputDate },
+            ]
+        },
+        {
+            $set: {
+                "dates.$.Dinner_image": image
+            }
+        },
+        { upsert: true }
+    );
+};
 
 // Delete by UserId
 UserLogSchema.statics.deleteByUserId = function (userId) {

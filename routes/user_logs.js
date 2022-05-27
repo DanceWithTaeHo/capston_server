@@ -125,7 +125,7 @@ router.post('/:userId/:date/exercises', (req, res) => {
     if (payload.time != null) {
         payload = aerobicCalculator(payload);
     } else {
-        payload = exerciseCalculator(payload);
+        payload = kcalCalculator(payload);
     }
 
     checkAndMakeDate(userId, date);
@@ -267,7 +267,7 @@ function exerciseCalculator(payload, diet_info) {
     return diet_payload
 }
 
-function exerciseCalculator(payload) {
+function kcalCalculator(payload) {
     var _payload = payload;
     if (payload.exercise == "푸쉬업") {
         _payload['burned_kcal'] = parseFloat((payload.reps * 0.47).toFixed(2));

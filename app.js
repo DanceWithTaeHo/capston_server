@@ -12,10 +12,10 @@ const port = process.env.PORT || 4500;
 app.use(express.static('public'));
 // Body-parser
 app.use(bodyParser.urlencoded({
-    limit: '1mb', extended: true
+    limit: '5mb', extended: true
 }));
 app.use(bodyParser.json({
-    limit: '1mb'
+    limit: '5mb'
 }));
 // Node의 native Promise 사용
 mongoose.Promise = global.Promise;

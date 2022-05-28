@@ -162,7 +162,6 @@ UserLogSchema.statics.findOneAndUpdateLunchImage = function (userId, inputDate, 
 
 // 저녁식사 이미지 추가
 UserLogSchema.statics.findOneAndUpdateDinnerImage = function (userId, inputDate, image) {
-    console.log(image);
 
     return this.findOneAndUpdate(
         {
@@ -173,7 +172,7 @@ UserLogSchema.statics.findOneAndUpdateDinnerImage = function (userId, inputDate,
         },
         {
             $set: {
-                "dates.$.Dinner_image": image
+                "dates.$.dinner_image": image
             }
         },
         { upsert: true }

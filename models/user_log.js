@@ -123,6 +123,7 @@ UserLogSchema.statics.findOneAndUpdateDietInfo = function (userId, inputDate, pa
 
 // 아침식사 이미지 추가
 UserLogSchema.statics.findOneAndUpdateBreakfastImage = function (userId, inputDate, image) {
+    print(1111);
 
     return this.findOneAndUpdate(
         {

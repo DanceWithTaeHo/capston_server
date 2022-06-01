@@ -15,7 +15,7 @@ app.use(bodyParser.urlencoded({
     limit: '300mb', extended: true
 }));
 app.use(bodyParser.json({
-    limit: '300mb'
+    limit: '300mb', extended: true
 }));
 // Node의 native Promise 사용
 mongoose.Promise = global.Promise;

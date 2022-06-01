@@ -324,9 +324,6 @@ function kcalCalculator(payload) {
     else if (payload.exercise == "덤벨컬") {
         _payload['burned_kcal'] = parseFloat((payload.reps * 1.3).toFixed(2));
     }
-    else if (payload.exercise == "플랭크") {
-        _payload['burned_kcal'] = parseFloat((payload.reps * 1.3).toFixed(2));
-    }
 
     return _payload
 }
@@ -340,6 +337,9 @@ function aerobicCalculator(payload) {
     }
     else if (payload.exercise == "조깅") {
         _payload['burned_kcal'] = parseFloat((payload.time * 0.13).toFixed(2));
+    }
+    else if (payload.exercise == "플랭크") {
+        _payload['burned_kcal'] = parseFloat((payload.time * 0.15).toFixed(2));
     }
 
     return _payload

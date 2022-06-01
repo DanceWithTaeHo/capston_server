@@ -122,7 +122,7 @@ router.post('/:userId/:date/exercises', (req, res) => {
     date = req.params.date;
     userId = req.params.userId;
 
-    if (payload.time != null) {
+    if (payload.time != 0 || payload.time != null) {
         payload = aerobicCalculator(payload);
     } else {
         payload = kcalCalculator(payload);
